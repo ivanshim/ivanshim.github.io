@@ -18,3 +18,5 @@
 | SBU | STANBIC UGANDA HOLDINGS LIMITED | 59.68 |
 | UCL | Uganda Clays Limited | 6.50 |
 | UMEM | UMEME LIMITED | 405.00 |
+
+Date: 10th September 2025
