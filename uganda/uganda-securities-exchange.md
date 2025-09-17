@@ -7,7 +7,7 @@ permalink: /uganda-securities-exchange/
 
 | Stock Code | Name |
 |-|-|
-| [AIRTEL UGANDA](https://www.use.or.ug/listed/AIRTEL_UGANDA){:target="_blank"} | AIRTEL UGANDA LIMITED |
+| [AIRTEL UGANDA](https://www.use.or.ug/listed/airtel_uganda){:target="_blank"} | AIRTEL UGANDA LIMITED |
 | [BATU](https://www.use.or.ug/listed/batu){:target="_blank"} | British American Tobacco Uganda |
 | [BOBU](https://www.use.or.ug/listed/bobu){:target="_blank"} | Bank of Baroda Uganda |
 | [CENT](https://www.use.or.ug/listed/cent){:target="_blank"} | Centum Investment Company Ltd |
@@ -17,7 +17,7 @@ permalink: /uganda-securities-exchange/
 | [JHL](https://www.use.or.ug/listed/jhl){:target="_blank"} | Jubilee Holdings Limited |
 | [KA](https://www.use.or.ug/listed/ka){:target="_blank"} | Kenya Airways |
 | [KCB](https://www.use.or.ug/listed/kcb){:target="_blank"} | KCB Group |
-| [MTNU](https://www.use.or.ug/listed/MTNU){:target="_blank"} | MTN UGANDA LIMITED |
+| [MTNU](https://www.use.or.ug/listed/mtnu){:target="_blank"} | MTN UGANDA LIMITED |
 | [NIC](https://www.use.or.ug/listed/nic){:target="_blank"} | National Insurance Corporation |
 | [NMG](https://www.use.or.ug/listed/nmg){:target="_blank"} | Nation Media Group |
 | [NVL](https://www.use.or.ug/listed/nvl){:target="_blank"} | NEW VISION PRINTING AND PUBLISHING COMPANY LTD |
