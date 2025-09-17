@@ -4,25 +4,25 @@ permalink: /uganda-securities-exchange/
 ---
 # Uganda Securities Exchange
 
-| Stock Code | Name | Price |
-|-|-|-|
-| AIRTEL UGANDA | AIRTEL UGANDA LIMITED | |
-| BATU | British American Tobacco Uganda | 15,000.00 |
-| BOBU | Bank of Baroda Uganda | 42.00 |
-| CENT | Centum Investment Company Ltd | 371.82 |
-| DFCU | DEVELOPMENT FINANCE COMPANY OF UGANDA LTD | 261.00 |
-| EABL | East African Breweries Limited | 6,025.08 |
-| EBL | EQUITY BANK LIMITED | 1,506.27 |
-| JHL | Jubilee Holdings Limited | 8,284.49 |
-| KA | Kenya Airways | 109.10 |
-| KCB | KCB Group | 1,384.14 |
-| MTNU | MTN UGANDA LIMITED | 283.65 |
-| NIC | National Insurance Corporation | 5.00 |
-| NMG | Nation Media Group | 362.32 |
-| NVL | NEW VISION PRINTING AND PUBLISHING COMPANY LTD | 151.00 |
-| QCIL | QUALITY CHEMICAL INDUSTRIES LIMITED | 118.00 |
-| SBU | STANBIC UGANDA HOLDINGS LIMITED | 59.68 |
-| UCL | Uganda Clays Limited | 6.50 |
-| UMEM | UMEME LIMITED | 405.00 |
+| Stock Code | Name |
+|-|-|
+| [AIRTEL UGANDA](https://africanfinancials.com/company/ug-airtel/){:target="_blank"} | AIRTEL UGANDA LIMITED |
+| [BATU](https://africanfinancials.com/company/ug-batu/){:target="_blank"} | British American Tobacco Uganda |
+| [BOBU](https://africanfinancials.com/company/ug-bobu/){:target="_blank"} | Bank of Baroda Uganda |
+| [CENT](https://africanfinancials.com/company/ug-cent/){:target="_blank"} | Centum Investment Company Ltd |
+| [DFCU](https://africanfinancials.com/company/ug-dfcu/){:target="_blank"} | DEVELOPMENT FINANCE COMPANY OF UGANDA LTD |
+| [EABL](https://africanfinancials.com/company/ug-eabl/){:target="_blank"} | East African Breweries Limited |
+| [EBL](https://africanfinancials.com/company/ug-ebl/){:target="_blank"} | EQUITY BANK LIMITED |
+| [JHL](https://africanfinancials.com/company/ug-jhl/){:target="_blank"} | Jubilee Holdings Limited |
+| [KA](https://africanfinancials.com/company/ug-ka/){:target="_blank"} | Kenya Airways |
+| [KCB](https://africanfinancials.com/company/ug-kcb/){:target="_blank"} | KCB Group |
+| [MTNU](https://africanfinancials.com/company/ug-mtn/){:target="_blank"} | MTN UGANDA LIMITED |
+| [NIC](https://africanfinancials.com/company/ug-nic/){:target="_blank"} | National Insurance Corporation |
+| [NMG](https://africanfinancials.com/company/ug-nmg/){:target="_blank"} | Nation Media Group |
+| [NVL](https://africanfinancials.com/company/ug-nvl/){:target="_blank"} | NEW VISION PRINTING AND PUBLISHING COMPANY LTD |
+| [QCIL](https://africanfinancials.com/company/ug-qcil/){:target="_blank"} | QUALITY CHEMICAL INDUSTRIES LIMITED |
+| [SBU](https://africanfinancials.com/company/ug-sbu/){:target="_blank"} | STANBIC UGANDA HOLDINGS LIMITED |
+| [UCL](https://africanfinancials.com/company/ug-ucl/){:target="_blank"} | Uganda Clays Limited |
+| [UMEM](https://africanfinancials.com/company/ug-umeme/){:target="_blank"} | UMEME LIMITED |
 
-Date: 10th September 2025
+
