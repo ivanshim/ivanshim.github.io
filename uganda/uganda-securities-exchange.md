@@ -2,9 +2,9 @@
 title: Uganda Securities Exchange
 permalink: /uganda-securities-exchange/
 ---
-# Uganda Securities Exchange
+# [Uganda Securities Exchange](https://www.use.or.ug/){:target="_blank"}
 
-## USE - [Equities](https://www.use.or.ug/content/equities)
+## USE - [Equities](https://www.use.or.ug/content/equities){:target="_blank"}
 
 | Stock Code | Name |
 |-|-|
