@@ -4,8 +4,8 @@ permalink: /uganda-securities-exchange/
 ---
 # [Uganda Securities Exchange](https://www.use.or.ug/){:target="_blank"}
 
-## USE - [Equities](https://www.use.or.ug/content/equities){:target="_blank"}
 
+## USE - [Equities](https://www.use.or.ug/content/equities){:target="_blank"}
 
 | Stock Code (USE) | AfricanFinancials | Wikipedia | Corporate Website | Name | Cross-Listed | Majority Shareholders’ Country |
 |-|-|-|-|-|-|-|
@@ -28,5 +28,15 @@ permalink: /uganda-securities-exchange/
 | [UCL](https://www.use.or.ug/listed/ucl){:target="_blank"} | [Link](https://africanfinancials.com/company/ug-ucl/){:target="_blank"} | [Wikipedia](https://en.m.wikipedia.org/wiki/Uganda_Clays_Limited){:target="_blank"} | [Website](http://www.ugandaclays.co.ug){:target="_blank"} | Uganda Clays Limited | Nil | Uganda (Govt of Uganda & NSSF) |
 | [UMEM](https://www.use.or.ug/listed/umem){:target="_blank"} | [Link](https://africanfinancials.com/company/ug-umeme/){:target="_blank"} | [Wikipedia](https://en.m.wikipedia.org/wiki/Umeme){:target="_blank"} | [Website](http://www.umeme.co.ug){:target="_blank"} | UMEME LIMITED | Kenya | UK (Actis, previously; now dispersed with institutional investors) |
 
+
+## USE - [Trading Participants](https://www.use.or.ug/content/trading-participants){:target="_blank"}
+
+| Company | Address | P.O. Box | Tel | Fax | Email |
+| - | - | - | - | - | - |
+| **Chipper** | 2nd Floor, SMS House, Kampala Uganda | 29274 | +256 200 935 935 | - | uganda@chippercash.com |
+| **Crested Capital** | Crested Capital First Floor, Impala House Plot 13/15 Kimathi Avenue, Kampala, Uganda | 31736 | 0312-230900 / 0758-230900 | 0414-230900 | info@crestedcapital.com |
+| **Dyer & Blair** | Ground Floor, Rwenzori House Plot 1 Lumumba Avenue, Kampala, Uganda | 36620 | 0414 233 050 or 0312 265 469 | - | uganda@dyerandblair.com |
+| **SBG Securities** | 4th Floor, Crested Towers (Short) 17 Hannington Road, Kampala, Uganda | 7131 | 0312 224 972 or 0312 224 965 | - | sbgstrading@standardbank.com |
+| **UAP Old Mutual** | 2nd Floor UAP Nakawa Business Park Block A Second Floor Plot 3-5 New Port Bell Road, Kampala-Uganda | 20079 | 0414 332824 | 0414-346449 | brokerageufs@uap-group.com |
 
 
