@@ -41,17 +41,3 @@ permalink: /uganda-securities-exchange/
 
 
 
-
-
-
-
-
-| Company | Address | P.O. Box | Tel | Fax | Email |
-| - | - | - | - | - | - |
-| **Chipper** | 2nd Floor, SMS House, Kampala Uganda | 29274 | +256 200 935 935 | - | uganda@chippercash.com |
-| **Crested Capital** | Crested Capital First Floor, Impala House Plot 13/15 Kimathi Avenue, Kampala, Uganda | 31736 | 0312-230900 / 0758-230900 | 0414-230900 | info@crestedcapital.com |
-| **Dyer & Blair** | Ground Floor, Rwenzori House Plot 1 Lumumba Avenue, Kampala, Uganda | 36620 | 0414 233 050 or 0312 265 469 | - | uganda@dyerandblair.com |
-| **SBG Securities** | 4th Floor, Crested Towers (Short) 17 Hannington Road, Kampala, Uganda | 7131 | 0312 224 972 or 0312 224 965 | - | sbgstrading@standardbank.com |
-| **UAP Old Mutual** | 2nd Floor UAP Nakawa Business Park Block A Second Floor Plot 3-5 New Port Bell Road, Kampala-Uganda | 20079 | 0414 332824 | 0414-346449 | brokerageufs@uap-group.com |
-
-
