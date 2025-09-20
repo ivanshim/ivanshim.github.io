@@ -33,11 +33,10 @@ permalink: /uganda-securities-exchange/
 
 | Company | Address | P.O. Box | Tel | Fax | Email |
 | - | - | - | - | - | - |
-| **Chipper** | 2nd Floor, SMS House<br>Kampala Uganda | 29274 | +256 200 935 935 | - | uganda@chippercash.com |
-| **Crested Capital** | Crested Capital First Floor, Impala House<br>Plot 13/15 Kimathi Avenue<br>Kampala, Uganda | 31736 | 0312-230900 / 0758-230900 | 0414-230900 | info@crestedcapital.com |
-| **Dyer & Blair** | Ground Floor, Rwenzori House<br>Plot 1 Lumumba Avenue<br>Kampala, Uganda | 36620 | 0414 233 050 or 0312 265 469 | - | uganda@dyerandblair.com |
-| **SBG Securities** | 4th Floor, Crested Towers (Short)<br>17 Hannington Road<br>Kampala, Uganda | 7131 | 0312 224 972 or 0312 224 965 | - | sbgstrading@standardbank.com |
-| **UAP Old Mutual** | 2nd Floor UAP Nakawa Business Park<br>Block A Second Floor<br>Plot 3-5 New Port Bell Road<br>Kampala-Uganda | 20079 | 0414 332824 | 0414-346449 | brokerageufs@uap-group.com |
-
+| [Chipper](https://www.chippercash.com){:target="_blank"} | 2nd Floor, SMS House<br>Kampala Uganda | 29274 | +256 200 935 935 | - | uganda@chippercash.com |
+| [Crested Capital](https://www.crestedcapital.com){:target="_blank"} | Crested Capital First Floor, Impala House<br>Plot 13/15 Kimathi Avenue<br>Kampala, Uganda | 31736 | 0312-230900 / 0758-230900 | 0414-230900 | info@crestedcapital.com |
+| [Dyer & Blair](https://www.dyerandblair.com){:target="_blank"} | Ground Floor, Rwenzori House<br>Plot 1 Lumumba Avenue<br>Kampala, Uganda | 36620 | 0414 233 050 or 0312 265 469 | - | uganda@dyerandblair.com |
+| [SBG Securities](https://www.standardbank.com){:target="_blank"} | 4th Floor, Crested Towers (Short)<br>17 Hannington Road<br>Kampala, Uganda | 7131 | 0312 224 972 or 0312 224 965 | - | sbgstrading@standardbank.com |
+| [UAP Old Mutual](https://www.uap-group.com){:target="_blank"} | 2nd Floor UAP Nakawa Business Park<br>Block A Second Floor<br>Plot 3-5 New Port Bell Road<br>Kampala-Uganda | 20079 | 0414 332824 | 0414-346449 | brokerageufs@uap-group.com |
 
 
