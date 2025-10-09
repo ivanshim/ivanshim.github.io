@@ -4,7 +4,7 @@ permalink: /uganda-securities-exchange/
 ---
 # [Uganda Securities Exchange](https://www.use.or.ug){:target="_blank"}
 
-## USE - [Dashboard](https://scd.use.or.ug){:target="_blank"}
+## USE - [Securities Central Depository](https://scd.use.or.ug){:target="_blank"}
 
 ## USE - [Equities](https://www.use.or.ug/content/equities){:target="_blank"}
 
