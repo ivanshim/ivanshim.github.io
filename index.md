@@ -10,4 +10,4 @@ permalink: /
 
 [Uganda Securities Exchange](uganda-securities-exchange/)
 
-
+[EAC by Population and Religion](eac-population-religion/)
