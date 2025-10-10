@@ -1,5 +1,9 @@
-# EAC by Population and Religion
-*Slug / Permalink: eac-population-religion/*
+---
+title: EAC by Population and Religion
+slug: eac-population-religion
+permalink: /eac-population-religion/
+date: 2025-10-10
+---
 
 **Table 1. Religious Composition and Population of East African Community (EAC) Member States, 2025 Estimates**
 
@@ -13,7 +17,8 @@
 | Burundi | 13 | 93 | 6 | 1 |
 | South Sudan | 12 | 60 | 6 | 34 |
 
-> **Notes:**
-> - Population data are approximate mid-2025 estimates (UN & World Bank).
-> - Percentages are rounded to reflect major religious affiliations.
-> - Christianity is dominant across all EAC states except Tanzania, where Islam has a strong presence.
+> **Notes**
+> - Population data: mid-2025 UN and World Bank estimates.  
+> - Religious percentages rounded to nearest whole number.  
+> - Christianity dominates across EAC states except Tanzania, where Islam is strong.  
+> - South Sudan retains large traditional/indigenous faith populations.
