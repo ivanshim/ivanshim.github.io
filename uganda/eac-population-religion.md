@@ -1,5 +1,5 @@
 # EAC by Population and Religion
-*Slug / Permalink: eac-population-religion*
+*Slug / Permalink: eac-population-religion/*
 
 **Table 1. Religious Composition and Population of East African Community (EAC) Member States, 2025 Estimates**
 
