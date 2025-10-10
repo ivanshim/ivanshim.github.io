@@ -1,8 +1,10 @@
 ---
 title: EAC by Population and Religion
-slug: eac-population-religion
 permalink: /eac-population-religion/
 date: 2025-10-10
+layout: default
+tags: [EAC, population, religion]
+description: Comparative 2025 population and religion data for East African Community member states.
 ---
 
 **Table 1. Religious Composition and Population of East African Community (EAC) Member States, 2025 Estimates**
