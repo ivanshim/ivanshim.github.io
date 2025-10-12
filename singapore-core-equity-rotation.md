@@ -1,17 +1,16 @@
 ---
 title: "Singapore Core Equity Rotation – 12-Month DCA Strategy"
 permalink: "/singapore-core-equity-rotation/"
-description: "A structured 12-month dollar-cost averaging plan for long-term investing in Singapore's blue-chip stocks and ETFs, balancing SPY-like stability and QQQ-like growth."
-tags: ["Singapore Stocks", "SGX", "ETFs", "DCA", "Portfolio Strategy", "Long-Term Investing"]
+description: "A structured 12-month dollar-cost averaging plan for Singapore blue-chip stocks and ETFs, balancing stability, income, and growth exposure in a SPY+QQQ style allocation."
+tags: ["Singapore Stocks", "SGX", "ETFs", "Banks", "DCA", "Portfolio Strategy", "Long-Term Investing"]
 author: "SG Investments"
-date: 2025-10-12
+last_reviewed: 2025-10-13
 ---
 
 ## 🇸🇬 Singapore Core Equity Rotation – 12-Month DCA Strategy
 
-This plan is designed for retail investors who wish to **build a Singapore-based equity portfolio** that mimics the **SPY + QQQ balance** — combining dividend-rich stability with moderate growth exposure.
-
-It assumes **SGD 500/month** invested on a rotation across 12 months, covering major banks, key non-bank corporates, and ETFs.
+This strategy allocates a **fixed monthly contribution** *(example: SG$500 monthly)* across Singapore’s top blue-chip equities and ETFs.  
+It balances **income, defensiveness, and long-term growth**, serving as a **Singapore analogue to a SPY + QQQ blend** using only SGX-listed counters.
 
 ---
 
@@ -20,59 +19,72 @@ It assumes **SGD 500/month** invested on a rotation across 12 months, covering m
 | Month | Stock Code | Full Name | Reason / Notes |
 |--------|-------------|------------|----------------|
 | **Jan** | ES3 | SPDR Straits Times Index ETF | High liquidity start of year; broad market anchor. |
-| **Feb** | D05 | DBS Group Holdings Ltd | FY results season; buy ahead of final dividend declaration. |
-| **Mar** | Z74 | Singapore Telecommunications Ltd (Singtel) | Stable pricing before May ex-dividend; digital/infra exposure. |
-| **Apr** | S63 | ST Engineering Ltd | Q1 liquidity; steady industrial-tech exposure and defensive yield. |
-| **May** | CLR | Lion-Phillip S-REIT ETF | Mid-year calm for REITs; reliable income component. |
-| **Jun** | O39 | Oversea-Chinese Banking Corp Ltd (OCBC) | Accumulate before Aug ex-dividend; stable quarter. |
-| **Jul** | C6L | Singapore Airlines Ltd | Ahead of travel peak; good liquidity and earnings momentum. |
+| **Feb** | D05 | DBS Group Holdings Ltd | Full-year results season; accumulate before final dividend. |
+| **Mar** | S63 | ST Engineering Ltd | Stable industrial-tech exposure; defensive yield pre-Q1 results. |
+| **Apr** | Z74 | Singapore Telecommunications Ltd (Singtel) | Pre-dividend period; digital and regional growth exposure. |
+| **May** | CLR | Lion-Phillip S-REIT ETF | Mid-year calm; ideal for steady income exposure. |
+| **Jun** | O39 | Oversea-Chinese Banking Corp Ltd (OCBC) | Buy ahead of typical August ex-dividend. |
+| **Jul** | C6L | Singapore Airlines Ltd | Ahead of travel peak; good liquidity and cyclical recovery. |
 | **Aug** | G3B | Nikko AM Singapore STI ETF | Alternate ETF exposure; post-results liquidity high. |
-| **Sep** | Z74 | Singapore Telecommunications Ltd (Singtel) | Second exposure after ex-dividend period; consistent cashflow play. |
-| **Oct** | ES3 | SPDR Straits Times Index ETF | Second broad-market buy; Q4 liquidity surge on SGX. |
-| **Nov** | D05 | DBS Group Holdings Ltd | Add before interim dividend; stabilises year-end yield. |
-| **Dec** | U11 | United Overseas Bank Ltd (UOB) | Quiet month with tight spreads; solid close to banking cycle. |
+| **Sep** | U11 | United Overseas Bank Ltd (UOB) | Complements DBS & OCBC; pre-interim dividend accumulation. |
+| **Oct** | ES3 | SPDR Straits Times Index ETF | Second ETF exposure; aligns with Q4 liquidity surge. |
+| **Nov** | D05 | DBS Group Holdings Ltd | Add before interim dividend; strong income stabilizer. |
+| **Dec** | S68 | Singapore Exchange Ltd (SGX) | Defensive financial infrastructure play; steady year-end hold. |
 
 ---
 
-### ⚖️ Portfolio Structure Summary
+### ⚖️ Portfolio Composition Summary
 
 | Category | Counters | Frequency | Approx. Weight | Rationale |
 |-----------|-----------|------------|----------------|------------|
-| **ETFs (Broad Market)** | ES3 ×2, G3B ×1 | 3 | ~25% | Core SPY-like market exposure |
-| **Banks (Financial Anchor)** | DBS ×2, OCBC ×1, UOB ×1 | 4 | ~33% | Dividend, yield, and stability |
-| **Non-Banks / Growth & Defensive Mix** | Singtel ×2, SIA ×1, ST Engineering ×1, Lion S-REIT ×1 | 5 | ~42% | Balanced exposure to digital, travel, industrial, and income sectors |
+| **ETFs (Broad Market)** | ES3 ×2, G3B ×1 | 3 | ~25% | Core index exposure for diversification. |
+| **Banks (Financial Backbone)** | DBS ×2, OCBC ×1, UOB ×1 | 4 | ~33% | Stable, high-yield financial engine. |
+| **Non-Banks / Defensive & Growth Mix** | Singtel ×1, ST Eng ×1, SIA ×1, SGX ×1, Lion S-REIT ×1 | 5 | ~42% | Balanced exposure to digital, industrial, cyclical, income, and infrastructure plays. |
 
 ---
 
-### 🧭 Design Principles
+### 🧠 Design Principles
 
-- **Diversification through simplicity:** 12 counters, one per month, rotated for steady DCA discipline.  
-- **Core balance:** ⅓ banks, ⅓ ETFs, ⅓ non-banks (digital, cyclical, income).  
-- **Dividend and liquidity optimization:** Timing aligns with SGX trading volumes and ex-dividend cycles.  
-- **Local governance and transparency:** Focus on Singapore-listed, MAS-regulated instruments.  
-- **Low-maintenance:** Repeatable annual schedule suitable for automated monthly investing.
+- **Diversified exposure:** Banks, ETFs, telecoms, industrials, REITs, and transport.  
+- **Dividend and liquidity alignment:** Timing optimised for SGX trading patterns and ex-dividend cycles.  
+- **Local governance:** All counters are Singapore-listed and MAS-regulated.  
+- **Repeatable framework:** Schedule can be reused annually without modification.  
 
 ---
 
 ### 💡 Implementation Notes
 
-- Suggested contribution: **SGD 500/month** (adjustable).  
-- Reinvest dividends for compounding.  
-- Execute through any broker with SGX access (e.g., FSMOne, Tiger Brokers, POEMS, DBS Vickers).  
-- Annual rebalance optional; the structure is designed to self-correct via monthly rotation.  
+- **Fixed monthly contribution** *(example: SG$500 monthly)* — adjustable to investor preference.  
+- Dividends should be **reinvested** for compounding.  
+- Executable through any **SGX broker** (POEMS, FSMOne, Tiger Brokers, DBS Vickers, etc.).  
+- Annual rebalancing optional – the 12-month schedule self-corrects naturally over time.  
 
 ---
 
-### 📈 Strategic Outlook
+### 📈 Expected Long-Term Characteristics
 
-This portfolio offers:
-- Dividend yield ~**4–5% p.a.**  
-- Potential total return ~**6–7% p.a.** long-term (based on STI and component performance)  
-- Exposure to Singapore’s strongest financials, infrastructure, and digital economy leaders.  
-
-It’s a **low-cost, high-discipline, Singapore-centric analogue** to a **balanced SPY + QQQ strategy**.
+| Metric | Estimate | Commentary |
+|--------|-----------|------------|
+| **Dividend Yield** | ~4–5% p.a. | Driven by banks, REITs, SGX, and defensives |
+| **Total Return Potential** | ~6–7% p.a. | Combination of yield + long-term capital growth |
+| **Volatility** | Low–Moderate | Diversified sector exposure |
+| **Currency Risk** | None | All holdings SGD-denominated |
 
 ---
 
-*Created and maintained as part of the SG Investments: Stocks & ETFs project.*  
-*Last updated: 12 Oct 2025.*
+### 🧩 Sector Exposure Snapshot
+
+| Sector | Approx. Weight | Key Counters |
+|--------|----------------|---------------|
+| **Banking** | ~33% | DBS, OCBC, UOB |
+| **ETFs (Market)** | ~25% | ES3, G3B |
+| **Industrial** | ~8% | ST Engineering |
+| **Telecom** | ~8% | Singtel |
+| **Transport** | ~8% | Singapore Airlines |
+| **Finance** | ~8% | SGX |
+| **REITs / Property** | ~8% | Lion-Phillip S-REIT ETF |
+
+---
+
+*Created and maintained as part of the SG Investments: Stocks & ETFs Project.*  
+*Last reviewed: October 2025.*
