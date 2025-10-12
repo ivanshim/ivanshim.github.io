@@ -11,3 +11,10 @@ permalink: /
 [Uganda Securities Exchange](uganda-securities-exchange/)
 
 [EAC by Population and Religion](eac-population-religion/)
+
+[Singapore Core Equity Rotation](https://www.ivanshim.com/singapore-core-equity-rotation/)
+
+
+
+
+
