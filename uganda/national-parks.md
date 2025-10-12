@@ -1,6 +1,6 @@
 ---
 title: Uganda's National Parks
-permalink: /ugandas-national-parks/
+permalink: /uganda-national-parks/
 ---
 # Uganda's National Parks
 
