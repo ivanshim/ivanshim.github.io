@@ -14,7 +14,7 @@ permalink: /
 
 [Singapore Core Equity Rotation](https://www.ivanshim.com/singapore-core-equity-rotation/)
 
-
+[Singapore Top 10 Companies by Market Capitalization](
 
 
 
