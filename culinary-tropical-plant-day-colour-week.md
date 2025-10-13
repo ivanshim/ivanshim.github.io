@@ -5,6 +5,8 @@ description: "A colour-coded, plant-based weekday rotation where each day is ass
 author: "Dr. Ivan Shim"
 ---
 
+# 🥭 Culinary Diet of Tropical Plants by Assigning the Colour to the Day of the Week
+
 ## 🧾 Abstract
 
 This structured rotation prescribes a daily colour theme to tropical plant foods, providing a full spectrum of phytonutrients throughout the week.  
@@ -13,8 +15,6 @@ The emphasis on blending — rather than juicing — preserves natural fibre, ma
 The result is a practical, evidence-based approach to achieving nutritional variety, digestive health, and culinary creativity within a tropical context.
 
 ---
-
-# 🥭 Culinary Diet of Tropical Plants by Assigning the Colour to the Day of the Week
 
 - **Concept:** A culinary, plant-based rotation organizing tropical foods by colour and weekday.  
 - **Structure:** Each day corresponds to a unique pigment group, providing a full range of phytonutrients across the week.  
