@@ -5,13 +5,6 @@ description: "A colour-coded, plant-based weekday rotation where each day is ass
 author: "Dr. Ivan Shim"
 ---
 
-# 🥭 Culinary Diet of Tropical Plants by Assigning the Colour to the Day of the Week
-
-A **culinary, plant-based rotation** that organizes tropical foods by colour and weekday.  
-Each day corresponds to a unique pigment group, promoting balanced nutrition through a wide variety of natural, non-animal consumables — fruits, vegetables, herbs, grains, and beverages — **to be blended, not juiced**, in order to retain fibre, phytonutrients, and natural enzymes.  
-
----
-
 ## 🧾 Abstract
 
 This structured rotation prescribes a daily colour theme to tropical plant foods, providing a full spectrum of phytonutrients throughout the week.  
@@ -21,63 +14,73 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 
 ---
 
+# 🥭 Culinary Diet of Tropical Plants by Assigning the Colour to the Day of the Week
+
+- **Concept:** A culinary, plant-based rotation organizing tropical foods by colour and weekday.  
+- **Structure:** Each day corresponds to a unique pigment group, providing a full range of phytonutrients across the week.  
+- **Scope:** Includes fruits, vegetables, herbs, grains, and beverages — all of **non-animal origin**.  
+- **Method:** Ingredients are **to be blended, not juiced**, to retain fibre, phytonutrients, and enzymes.  
+- **Goal:** To achieve nutritional variety, digestive health, and culinary creativity within a tropical framework.
+
+---
+
 ## 🍎 Monday – Red
 **Theme:** Antioxidants · Circulation · Heart Health  
 
-**Core Items (to be blended):**  
+**Core Items:**  
 - Watermelon 🍉  
 - Tomato 🍅  
 - Beetroot  
 
 **Nutrients:** Lycopene, betalains, anthocyanins  
-**Benefits:** Improves cardiovascular health, supports red blood cell formation, and enhances circulation.
+**Benefits:** Improves cardiovascular health, supports red blood cell formation, enhances circulation.
 
 ---
 
 ## 🍊 Tuesday – Orange
 **Theme:** Carotenoids · Skin & Vision · Immunity  
 
-**Core Items (to be blended):**  
+**Core Items:**  
 - Carrot 🥕  
 - Papaya  
 - Mango 🥭  
 
 **Nutrients:** Beta-carotene, vitamin A, lutein  
-**Benefits:** Protects eyesight, enhances skin tone, and strengthens immune function.
+**Benefits:** Protects eyesight, enhances skin tone, strengthens immune function.
 
 ---
 
 ## 🍋 Wednesday – Yellow
 **Theme:** Digestion · Energy · Mood Balance  
 
-**Core Items (to be blended):**  
+**Core Items:**  
 - Pineapple 🍍  
 - Banana 🍌  
 - Lemon 🍋  
 
 **Nutrients:** Vitamin C, bromelain, potassium  
-**Benefits:** Aids digestion, supports metabolism, and promotes positive mood regulation.
+**Benefits:** Aids digestion, supports metabolism, promotes positive mood regulation.
 
 ---
 
 ## 🥑 Thursday – Green
 **Theme:** Detoxification · Vitality · pH Balance  
 
-**Core Items (to be blended):**  
+**Core Items:**  
 - Avocado 🥑  
 - Starfruit (Carambola)  
 - Cucumber 🥒  
 
 **Nutrients:** Chlorophyll, magnesium, healthy fats  
-**Benefits:** Detoxifies, hydrates, alkalizes, and revitalizes.
+**Benefits:** Detoxifies, hydrates, alkalizes, revitalizes.
 
 ---
 
-## 🫐 Friday – Purple / Blue
+## 🫐 Friday – Blue / Purple
 **Theme:** Brain Function · Circulation · Longevity  
 
-**Core Items (to be blended):**  
-- Purple dragon fruit (pitaya) 🐉  
+**Core Items:**  
+- Blue / Purple dragon fruit (pitaya) 🐉  
 - Mangosteen  
 
 **Nutrients:** Anthocyanins, polyphenols, xanthones  
@@ -95,7 +98,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 | **Tuesday** | **Orange** | Carrot, Papaya, Mango | Beta-carotene, vitamin A; skin and vision support |
 | **Wednesday** | **Yellow** | Pineapple, Banana, Lemon | Vitamin C, bromelain, potassium; energy and digestion |
 | **Thursday** | **Green** | Avocado, Starfruit, Cucumber | Chlorophyll, magnesium; detox and hydration |
-| **Friday** | **Purple/Blue** | Purple dragon fruit, Mangosteen | Anthocyanins, polyphenols; brain and vascular protection |
+| **Friday** | **Blue/Purple** | Blue/Purple dragon fruit, Mangosteen | Anthocyanins, polyphenols; brain and vascular protection |
 
 ---
 
