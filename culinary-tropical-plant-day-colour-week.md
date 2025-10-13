@@ -20,7 +20,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 - **Structure:** Each day corresponds to a unique pigment group, providing a full range of phytonutrients across the week.
 - **Scope:** Includes fruits, vegetables, herbs, grains, and beverages — all of **non-animal origin**.
 - **Method:** Ingredients are **to be blended, not juiced**, to retain fibre, phytonutrients, and enzymes.
-- **Orange inclusion:** **Orange (the blended pulp)** is incorporated daily as a balancing and flavour-enhancing component, complementing all colour groups.
+- **Orange daily:** **Orange (the blended endocarp)** is incorporated daily as a balancing and flavour-enhancing component, complementing all colour groups.
 - **Goal:** To achieve nutritional variety, digestive health, and culinary creativity within a tropical framework.
 
 ---
