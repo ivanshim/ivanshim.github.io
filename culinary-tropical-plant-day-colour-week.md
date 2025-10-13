@@ -56,7 +56,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 **Core Items:**  
 - Banana 🍌  
 - Pineapple 🍍  
-- Lemon 🍋  
+- Jackfruit 🍈  
 
 **Nutrients:** Vitamin C, bromelain, potassium  
 **Benefits:** Aids digestion, supports metabolism, promotes positive mood regulation.
@@ -68,7 +68,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 
 **Core Items:**  
 - Avocado 🥑  
-- Cucumber 🥒  
+- Honeydew 🍈  
 - Starfruit (Carambola)  
 
 **Nutrients:** Chlorophyll, magnesium, healthy fats  
@@ -96,11 +96,10 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 |-----|---------------|-------------|------------------------|
 | **Monday** | **Red** | Watermelon, Tomato, Beetroot | Lycopene, betalains; heart and circulation health |
 | **Tuesday** | **Orange** | Carrot, Mango, Papaya | Beta-carotene, vitamin A; skin and vision support |
-| **Wednesday** | **Yellow** | Banana, Pineapple, Lemon | Vitamin C, bromelain, potassium; energy and digestion |
-| **Thursday** | **Green** | Avocado, Cucumber, Starfruit | Chlorophyll, magnesium; detox and hydration |
+| **Wednesday** | **Yellow** | Banana, Pineapple, Jackfruit | Vitamin C, bromelain, potassium; energy and digestion |
+| **Thursday** | **Green** | Avocado, Honeydew, Starfruit | Chlorophyll, magnesium; detox and hydration |
 | **Friday** | **Blue/Purple** | Purple dragon fruit, Mangosteen | Anthocyanins, polyphenols; brain and vascular protection |
 
 ---
 
 © 2025 Dr. Ivan Shim · Singapore · *Tropical Nutrition and Preventive Health Initiative*
-
