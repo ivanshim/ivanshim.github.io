@@ -17,10 +17,10 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 ---
 
 - **Concept:** A culinary, plant-based rotation organizing tropical foods by colour and weekday.  
-- **Structure:** Each day corresponds to a unique pigment group, providing a full range of phytonutrients across the week.  
-- **Orange inclusion:** **Orange (the fruit and its juice)** is incorporated daily as a balancing and flavour-enhancing component, complementing all colour groups.  
-- **Scope:** Includes fruits, vegetables, herbs, grains, and beverages — all of **non-animal origin**.  
-- **Method:** Ingredients are **to be blended, not juiced**, to retain fibre, phytonutrients, and enzymes.  
+- **Structure:** Each day corresponds to a unique pigment group, providing a full range of phytonutrients across the week.
+- **Scope:** Includes fruits, vegetables, herbs, grains, and beverages — all of **non-animal origin**.
+- **Method:** Ingredients are **to be blended, not juiced**, to retain fibre, phytonutrients, and enzymes.
+- **Orange inclusion:** **Orange (the blended pulp)** is incorporated daily as a balancing and flavour-enhancing component, complementing all colour groups.
 - **Goal:** To achieve nutritional variety, digestive health, and culinary creativity within a tropical framework.
 
 ---
@@ -92,7 +92,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 
 ## 🌈 Summary Table
 
-> 🍊 **Note:** Orange (fruit or juice) is included every day as a universal component for acidity balance, flavour harmony, and vitamin C support.
+> 🍊 **Note:** Orange is included every day as a universal component for acidity balance, flavour harmony, and vitamin C support.
 
 | Day | Colour Theme | Core Items | Nutritional Highlights |
 |-----|---------------|-------------|------------------------|
