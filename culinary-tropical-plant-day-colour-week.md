@@ -81,12 +81,11 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 
 **Core Items:**  
 - Purple dragon fruit (pitaya) 🐉  
+- Purple passion fruit  
 - Mangosteen  
 
 **Nutrients:** Anthocyanins, polyphenols, xanthones  
-**Benefits:** Supports memory, vascular health, and slows oxidative aging.  
-
-*(Third option pending — e.g. Java plum, purple sweet potato, or black rice.)*
+**Benefits:** Supports memory, vascular health, and slows oxidative aging.
 
 ---
 
@@ -98,7 +97,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 | **Tuesday** | **Orange** | Carrot, Mango, Papaya | Beta-carotene, vitamin A; skin and vision support |
 | **Wednesday** | **Yellow** | Banana, Pineapple, Jackfruit | Vitamin C, bromelain, potassium; energy and digestion |
 | **Thursday** | **Green** | Avocado, Honeydew, Starfruit | Chlorophyll, magnesium; detox and hydration |
-| **Friday** | **Blue/Purple** | Purple dragon fruit, Mangosteen | Anthocyanins, polyphenols; brain and vascular protection |
+| **Friday** | **Blue/Purple** | Purple dragon fruit, Purple passion fruit, Mangosteen | Anthocyanins, polyphenols; brain and vascular protection |
 
 ---
 
