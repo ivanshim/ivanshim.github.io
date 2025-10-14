@@ -20,7 +20,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 - **Structure:** Each day corresponds to a unique pigment group, providing a full range of phytonutrients across the week.
 - **Scope:** Includes fruits, vegetables, herbs, grains, and beverages — all of **non-animal origin**.
 - **Method:** Ingredients are **to be blended, not juiced**, to retain fibre, phytonutrients, and enzymes.
-- **Orange daily:** **Orange (the blended endocarp)** is incorporated daily as a balancing and flavour-enhancing component, complementing all colour groups.
+- **Orange daily:** **Orange** is incorporated daily as a balancing and flavour-enhancing component, complementing all colour groups.
 - **Goal:** To achieve nutritional variety, digestive health, and culinary creativity within a tropical framework.
 
 ---
@@ -95,7 +95,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 > 🍊 **Note:** Orange is included every day as a universal component for acidity balance, flavour harmony, and vitamin C support.
 
 | Day | Colour Theme | Core Items | Nutritional Highlights |
-|-----|---------------|-------------|------------------------|
+|-|-|-|-|
 | **Monday** | 🔴 **Red** | Watermelon, Tomato, Beetroot | Lycopene, betalains; heart and circulation health |
 | **Tuesday** | 🟠 **Orange** | Carrot, Mango, Papaya | Beta-carotene, vitamin A; skin and vision support |
 | **Wednesday** | 🟡 **Yellow** | Banana, Pineapple, Jackfruit | Vitamin C, bromelain, potassium; energy and digestion |
