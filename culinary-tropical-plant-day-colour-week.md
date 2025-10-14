@@ -96,6 +96,25 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 
 | Day | Colour Theme | Core Items | Nutritional Highlights |
 |-----|---------------|-------------|------------------------|
+| <div style="background-color:lightcoral;">**Monday**</div> | <div style="background-color:lightcoral;">**Red**</div> | <div style="background-color:lightcoral;">Watermelon, Tomato, Beetroot</div> | <div style="background-color:lightcoral;">Lycopene, betalains; heart and circulation health</div> |
+| <div style="background-color:orange;">**Tuesday**</div> | <div style="background-color:orange;">**Orange**</div> | <div style="background-color:orange;">Carrot, Mango, Papaya</div> | <div style="background-color:orange;">Beta-carotene, vitamin A; skin and vision support</div> |
+| <div style="background-color:yellow;">**Wednesday**</div> | <div style="background-color:yellow;">**Yellow**</div> | <div style="background-color:yellow;">Banana, Pineapple, Jackfruit</div> | <div style="background-color:yellow;">Vitamin C, bromelain, potassium; energy and digestion</div> |
+| <div style="background-color:lightgreen;">**Thursday**</div> | <div style="background-color:lightgreen;">**Green**</div> | <div style="background-color:lightgreen;">Avocado, Honeydew, Starfruit</div> | <div style="background-color:lightgreen;">Chlorophyll, magnesium; detox and hydration</div> |
+| <div style="background-color:lightblue;">**Friday**</div> | <div style="background-color:lightblue;">**Blue/Purple**</div> | <div style="background-color:lightblue;">Purple dragon fruit, Purple passion fruit, Mangosteen</div> | <div style="background-color:lightblue;">Anthocyanins, polyphenols; brain and vascular protection</div> |
+
+---
+
+© 2025 Dr. Ivan Shim · Singapore · *Tropical Nutrition and Preventive Health Initiative*
+
+
+
+
+## 🌈 Summary Table
+
+> 🍊 **Note:** Orange is included every day as a universal component for acidity balance, flavour harmony, and vitamin C support.
+
+| Day | Colour Theme | Core Items | Nutritional Highlights |
+|-----|---------------|-------------|------------------------|
 | **Monday** | **Red** | Watermelon, Tomato, Beetroot | Lycopene, betalains; heart and circulation health |
 | **Tuesday** | **Orange** | Carrot, Mango, Papaya | Beta-carotene, vitamin A; skin and vision support |
 | **Wednesday** | **Yellow** | Banana, Pineapple, Jackfruit | Vitamin C, bromelain, potassium; energy and digestion |
