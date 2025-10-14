@@ -25,7 +25,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 
 ---
 
-## 🍎 Monday – Red
+## Monday – 🔴 Red
 **Theme:** Antioxidants · Circulation · Heart Health  
 
 **Core Items:**  
@@ -38,7 +38,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 
 ---
 
-## 🍊 Tuesday – Orange
+## Tuesday – 🟠 Orange
 **Theme:** Carotenoids · Skin & Vision · Immunity  
 
 **Core Items:**  
@@ -51,7 +51,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 
 ---
 
-## 🍋 Wednesday – Yellow
+## Wednesday – 🟡 Yellow
 **Theme:** Digestion · Energy · Mood Balance  
 
 **Core Items:**  
@@ -64,7 +64,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 
 ---
 
-## 🥑 Thursday – Green
+## Thursday – 🟢 Green
 **Theme:** Detoxification · Vitality · pH Balance  
 
 **Core Items:**  
@@ -77,7 +77,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 
 ---
 
-## 🫐 Friday – Blue / Purple
+## Friday – 🔵 Blue / Purple
 **Theme:** Brain Function · Circulation · Longevity  
 
 **Core Items:**  
@@ -96,30 +96,11 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 
 | Day | Colour Theme | Core Items | Nutritional Highlights |
 |-----|---------------|-------------|------------------------|
-| <div style="background-color:lightcoral;">**Monday**</div> | <div style="background-color:lightcoral;">**Red**</div> | <div style="background-color:lightcoral;">Watermelon, Tomato, Beetroot</div> | <div style="background-color:lightcoral;">Lycopene, betalains; heart and circulation health</div> |
-| <div style="background-color:orange;">**Tuesday**</div> | <div style="background-color:orange;">**Orange**</div> | <div style="background-color:orange;">Carrot, Mango, Papaya</div> | <div style="background-color:orange;">Beta-carotene, vitamin A; skin and vision support</div> |
-| <div style="background-color:yellow;">**Wednesday**</div> | <div style="background-color:yellow;">**Yellow**</div> | <div style="background-color:yellow;">Banana, Pineapple, Jackfruit</div> | <div style="background-color:yellow;">Vitamin C, bromelain, potassium; energy and digestion</div> |
-| <div style="background-color:lightgreen;">**Thursday**</div> | <div style="background-color:lightgreen;">**Green**</div> | <div style="background-color:lightgreen;">Avocado, Honeydew, Starfruit</div> | <div style="background-color:lightgreen;">Chlorophyll, magnesium; detox and hydration</div> |
-| <div style="background-color:lightblue;">**Friday**</div> | <div style="background-color:lightblue;">**Blue/Purple**</div> | <div style="background-color:lightblue;">Purple dragon fruit, Purple passion fruit, Mangosteen</div> | <div style="background-color:lightblue;">Anthocyanins, polyphenols; brain and vascular protection</div> |
-
----
-
-© 2025 Dr. Ivan Shim · Singapore · *Tropical Nutrition and Preventive Health Initiative*
-
-
-
-
-## 🌈 Summary Table
-
-> 🍊 **Note:** Orange is included every day as a universal component for acidity balance, flavour harmony, and vitamin C support.
-
-| Day | Colour Theme | Core Items | Nutritional Highlights |
-|-----|---------------|-------------|------------------------|
-| **Monday** | **Red** | Watermelon, Tomato, Beetroot | Lycopene, betalains; heart and circulation health |
-| **Tuesday** | **Orange** | Carrot, Mango, Papaya | Beta-carotene, vitamin A; skin and vision support |
-| **Wednesday** | **Yellow** | Banana, Pineapple, Jackfruit | Vitamin C, bromelain, potassium; energy and digestion |
-| **Thursday** | **Green** | Avocado, Honeydew, Starfruit | Chlorophyll, magnesium; detox and hydration |
-| **Friday** | **Blue/Purple** | Purple dragon fruit, Purple passion fruit, Mangosteen | Anthocyanins, polyphenols; brain and vascular protection |
+| **Monday** | 🔴 **Red** | Watermelon, Tomato, Beetroot | Lycopene, betalains; heart and circulation health |
+| **Tuesday** | 🟠 **Orange** | Carrot, Mango, Papaya | Beta-carotene, vitamin A; skin and vision support |
+| **Wednesday** | 🟡 **Yellow** | Banana, Pineapple, Jackfruit | Vitamin C, bromelain, potassium; energy and digestion |
+| **Thursday** | 🟢 **Green** | Avocado, Honeydew, Starfruit | Chlorophyll, magnesium; detox and hydration |
+| **Friday** | 🔵 **Blue/Purple** | Purple dragon fruit, Purple passion fruit, Mangosteen | Anthocyanins, polyphenols; brain and vascular protection |
 
 ---
 
