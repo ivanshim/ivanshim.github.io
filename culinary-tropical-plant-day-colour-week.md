@@ -31,7 +31,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 **Core Items:**  
 - Watermelon 🍉  
 - Tomato 🍅  
-- Beetroot  
+- Beetroot 🫜
 
 **Nutrients:** Lycopene, betalains, anthocyanins  
 **Benefits:** Improves cardiovascular health, supports red blood cell formation, enhances circulation.
@@ -81,23 +81,23 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 **Theme:** Brain Function · Circulation · Longevity  
 
 **Core Items:**  
-- Purple dragon fruit (pitaya) 🐉  
-- Purple passion fruit  
-- Mangosteen  
+- Purple dragon fruit (pitaya)  
+- Purple passion fruit
+- Mangosteen
 
-**Nutrients:** Anthocyanins, polyphenols, xanthones  
+**Nutrients:** Anthocyanins, polyphenols, xanthones
 **Benefits:** Supports memory, vascular health, and slows oxidative aging.
 
 ---
 
 ## 🌈 Summary Table
 
-> 🍊 **Note:** Orange is included every day as a universal component for acidity balance, flavour harmony, and vitamin C support.
+> **Note:** Orange 🍊 is included every day as a universal component for acidity balance, flavour harmony, and vitamin C support.
 
 | Day | Colour Theme | Core Items | Nutritional Highlights |
 |-|-|-|-|
-| **Monday** | 🔴 **Red** | Watermelon, Tomato, Beetroot | Lycopene, betalains; heart and circulation health |
-| **Tuesday** | 🟠 **Orange** | Carrot, Mango, Papaya | Beta-carotene, vitamin A; skin and vision support |
+| **Monday** | 🔴 **Red** | Watermelon 🍉, Tomato 🍅, Beetroot 🫜 | Lycopene, betalains; heart and circulation health |
+| **Tuesday** | 🟠 **Orange** | Carrot 🥕, Mango 🥭, Papaya | Beta-carotene, vitamin A; skin and vision support |
 | **Wednesday** | 🟡 **Yellow** | Banana, Pineapple, Jackfruit | Vitamin C, bromelain, potassium; energy and digestion |
 | **Thursday** | 🟢 **Green** | Avocado, Honeydew, Starfruit | Chlorophyll, magnesium; detox and hydration |
 | **Friday** | 🔵 **Blue/Purple** | Purple dragon fruit, Purple passion fruit, Mangosteen | Anthocyanins, polyphenols; brain and vascular protection |
@@ -105,3 +105,6 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 ---
 
 © 2025 Dr. Ivan Shim · Singapore · *Tropical Nutrition and Preventive Health Initiative*
+
+
+
