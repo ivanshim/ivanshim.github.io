@@ -96,9 +96,9 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 
 | Day | Colour Theme | Core Items | Nutritional Highlights |
 |-|-|-|-|
-| **Monday** | 🔴 **Red** | Watermelon 🍉, Tomato 🍅, Beetroot 🫜 | Lycopene, betalains; heart and circulation health |
+| **Monday** | 🔴 **Red** | Watermelon 🍉,<br>Tomato 🍅, Beetroot 🫜 | Lycopene, betalains; heart and circulation health |
 | **Tuesday** | 🟠 **Orange** | Carrot 🥕, Mango 🥭, Papaya | Beta-carotene, vitamin A; skin and vision support |
-| **Wednesday** | 🟡 **Yellow** | Banana, Pineapple, Jackfruit | Vitamin C, bromelain, potassium; energy and digestion |
+| **Wednesday** | 🟡 **Yellow** | Banana 🍌, Pineapple 🍍, Jackfruit | Vitamin C, bromelain, potassium; energy and digestion |
 | **Thursday** | 🟢 **Green** | Avocado 🥑, Honeydew 🍈, Starfruit | Chlorophyll, magnesium; detox and hydration |
 | **Friday** | 🔵 **Blue/Purple** | Purple dragon fruit, Purple passion fruit, Mangosteen | Anthocyanins, polyphenols; brain and vascular protection |
 
