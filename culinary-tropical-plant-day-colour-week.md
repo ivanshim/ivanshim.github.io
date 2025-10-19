@@ -1,7 +1,7 @@
 ---
 title: "Culinary Diet of Tropical Plants by Assigning the Colour to the Day of the Week"
 permalink: /culinary-tropical-plant-day-colour-week/
-description: "A colour-coded, plant-based weekday rotation where each day is assigned a fixed colour theme, emphasizing tropical plants to be blended (not juiced) for culinary balance, vitality, and health."
+description: "A colour-coded, plant-based weekday rotation where each day is assigned a fixed colour theme, emphasizing tropical plants to be blended (not juiced) for culinary balance, vitality, and variety."
 author: "Dr. Ivan Shim"
 ---
 
@@ -9,19 +9,19 @@ author: "Dr. Ivan Shim"
 
 ## 🧾 Abstract
 
-This structured rotation prescribes a daily colour theme to tropical plant foods, providing a full spectrum of phytonutrients throughout the week.  
-Each day features blended combinations of tropical fruits, vegetables, and botanicals chosen for their dominant pigments and associated micronutrients.  
-The emphasis on blending — rather than juicing — preserves natural fibre, maintains glycaemic balance, and enhances satiety.  
-The result is a practical, evidence-based approach to achieving nutritional variety, digestive health, and culinary creativity within a tropical context.
+This structured rotation assigns a daily colour theme to tropical plant foods, promoting a diverse intake of natural phytonutrients across the week.  
+Each day highlights tropical fruits and vegetables selected for their dominant pigments and corresponding micronutrient profiles.  
+Blending — rather than juicing — retains dietary fibre, moderates glycaemic response, and supports satiety.  
+This framework provides a practical and evidence-informed approach to encouraging nutritional diversity, digestive health, and culinary creativity.
 
 ---
 
 - **Concept:** A culinary, plant-based rotation organizing tropical foods by colour and weekday.  
-- **Structure:** Each day corresponds to a unique pigment group, providing a full range of phytonutrients across the week.
-- **Scope:** Includes fruits, vegetables, herbs, grains, and beverages — all of **non-animal origin**.
-- **Method:** Ingredients are **to be blended, not juiced**, to retain fibre, phytonutrients, and enzymes.
-- **Orange daily:** **Orange** is incorporated daily as a balancing and flavour-enhancing component, complementing all colour groups.
-- **Goal:** To achieve nutritional variety, digestive health, and culinary creativity within a tropical framework.
+- **Structure:** Each day corresponds to a distinct pigment group, encouraging a broad range of phytonutrient intake.  
+- **Scope:** Includes fruits, vegetables, and herbs of **non-animal origin**.  
+- **Method:** Ingredients are **to be blended, not juiced**, to preserve fibre, phytonutrients, and texture.  
+- **Orange daily:** **Orange** is incorporated daily as a balancing and flavour-enhancing component, complementing all colour groups.  
+- **Goal:** To promote variety and balanced nutrient exposure within a tropical dietary context.
 
 ---
 
@@ -31,10 +31,10 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 **Core Items:**  
 - Watermelon 🍉  
 - Tomato 🍅  
-- Beetroot 🫜
+- Beetroot 🫜  
 
 **Nutrients:** Lycopene, betalains, anthocyanins  
-**Benefits:** Improves cardiovascular health, supports red blood cell formation, enhances circulation.
+**Benefits:** Supports cardiovascular function, assists red blood cell formation, and may enhance peripheral circulation.
 
 ---
 
@@ -47,7 +47,7 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 - Papaya  
 
 **Nutrients:** Beta-carotene, vitamin A, lutein  
-**Benefits:** Protects eyesight, enhances skin tone, strengthens immune function.
+**Benefits:** Contributes to healthy vision, assists immune defence, and supports skin health.
 
 ---
 
@@ -57,10 +57,10 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 **Core Items:**  
 - Banana 🍌  
 - Pineapple 🍍  
-- Jackfruit
+- Jackfruit  
 
 **Nutrients:** Vitamin C, bromelain, potassium  
-**Benefits:** Aids digestion, supports metabolism, promotes positive mood regulation.
+**Benefits:** Aids digestive enzyme activity, supports cellular energy metabolism, and may promote mood stability.
 
 ---
 
@@ -68,12 +68,12 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 **Theme:** Detoxification · Vitality · pH Balance  
 
 **Core Items:**  
-- Avocado 🥑  
 - Honeydew 🍈  
+- Guava (番石榴 / *Psidium guajava*)  
 - Starfruit (Carambola)  
 
-**Nutrients:** Chlorophyll, magnesium, healthy fats  
-**Benefits:** Detoxifies, hydrates, alkalizes, revitalizes.
+**Nutrients:** Chlorophyll, vitamin C, dietary fibre  
+**Benefits:** Assists hydration, supports digestive regularity, and provides antioxidant protection.
 
 ---
 
@@ -82,29 +82,28 @@ The result is a practical, evidence-based approach to achieving nutritional vari
 
 **Core Items:**  
 - Purple dragon fruit (pitaya)  
-- Purple passion fruit
-- Mangosteen
+- Purple passion fruit  
+- Mangosteen  
 
-**Nutrients:** Anthocyanins, polyphenols, xanthones
-**Benefits:** Supports memory, vascular health, and slows oxidative aging.
+**Nutrients:** Anthocyanins, polyphenols, xanthones  
+**Benefits:** Provides antioxidant compounds, supports vascular function, and contributes to cellular protection against oxidative stress.
 
 ---
 
 ## 🌈 Summary Table
 
-> **Note:** Orange 🍊 is included every day as a universal component for acidity balance, flavour harmony, and vitamin C support.
+> **Note:** Orange 🍊 is included every day as a universal component for acidity balance, flavour harmony, and vitamin C contribution.
 
 | Day | Colour Theme | Core Items | Nutritional Highlights |
 |-|-|-|-|
-| **Monday** | 🔴 **Red** | Watermelon 🍉,<br>Tomato 🍅,<br>Beetroot 🫜 | Lycopene, betalains; heart and circulation health |
-| **Tuesday** | 🟠 **Orange** | Carrot 🥕,<br>Mango 🥭,<br>Papaya | Beta-carotene, vitamin A; skin and vision support |
-| **Wednesday** | 🟡 **Yellow** | Banana 🍌,<br>Pineapple 🍍,<br>Jackfruit | Vitamin C, bromelain, potassium; energy and digestion |
-| **Thursday** | 🟢 **Green** | Avocado 🥑,<br>Honeydew 🍈,<br>Starfruit | Chlorophyll, magnesium; detox and hydration |
-| **Friday** | 🔵 **Blue/Purple** | Purple dragon fruit,<br>Purple passion fruit,<br>Mangosteen | Anthocyanins, polyphenols; brain and vascular protection |
+| **Monday** | 🔴 **Red** | Watermelon 🍉,<br>Tomato 🍅,<br>Beetroot 🫜 | Lycopene, betalains; cardiovascular and circulatory support |
+| **Tuesday** | 🟠 **Orange** | Carrot 🥕,<br>Mango 🥭,<br>Papaya | Beta-carotene, vitamin A; eye and skin health |
+| **Wednesday** | 🟡 **Yellow** | Banana 🍌,<br>Pineapple 🍍,<br>Jackfruit | Vitamin C, bromelain, potassium; digestion and energy |
+| **Thursday** | 🟢 **Green** | Honeydew 🍈,<br>Guava (Psidium guajava),<br>Starfruit (Carambola) | Chlorophyll, vitamin C, fibre; hydration and digestive support |
+| **Friday** | 🔵 **Blue/Purple** | Purple dragon fruit,<br>Purple passion fruit,<br>Mangosteen | Anthocyanins, polyphenols; antioxidant and vascular benefits |
 
 ---
 
 © 2025 Dr. Ivan Shim · Singapore · *Tropical Nutrition and Preventive Health Initiative*
-
 
 
