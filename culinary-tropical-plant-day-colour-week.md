@@ -67,12 +67,12 @@ This framework provides a practical and evidence-informed approach to encouragin
 ## Thursday – 🟢 Green
 **Theme:** Detoxification · Vitality · pH Balance  
 
-**Core Items:**  
-- Honeydew 🍈  
-- Guava (番石榴 / *Psidium guajava*)  
-- Starfruit (Carambola)  
+**Core Items:**
+- Honeydew 🍈
+- Guava (Psidium guajava)
+- Starfruit (Carambola)
 
-**Nutrients:** Chlorophyll, vitamin C, dietary fibre  
+**Nutrients:** Chlorophyll, vitamin C, dietary fibre
 **Benefits:** Assists hydration, supports digestive regularity, and provides antioxidant protection.
 
 ---
