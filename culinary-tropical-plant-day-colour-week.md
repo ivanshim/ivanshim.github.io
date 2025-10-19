@@ -12,6 +12,7 @@ author: "Dr. Ivan Shim"
 This structured rotation assigns a daily colour theme to tropical plant foods, promoting a diverse intake of natural phytonutrients across the week.  
 Each day highlights tropical fruits and vegetables selected for their dominant pigments and corresponding micronutrient profiles.  
 Blending — rather than juicing — retains dietary fibre, moderates glycaemic response, and supports satiety.  
+While the focus is on tropical plants, one non-tropical fruit (blueberry) is included for its unique pigment contribution.  
 This framework provides a practical and evidence-informed approach to encouraging nutritional diversity, digestive health, and culinary creativity.
 
 ---
@@ -67,12 +68,12 @@ This framework provides a practical and evidence-informed approach to encouragin
 ## Thursday – 🟢 Green
 **Theme:** Detoxification · Vitality · pH Balance  
 
-**Core Items:**
-- Honeydew 🍈
-- Guava (Psidium guajava)
-- Starfruit (Carambola)
+**Core Items:**  
+- Honeydew 🍈  
+- Guava (*Psidium guajava*)  
+- Starfruit (*Carambola*)  
 
-**Nutrients:** Chlorophyll, vitamin C, dietary fibre
+**Nutrients:** Chlorophyll, vitamin C, dietary fibre  
 **Benefits:** Assists hydration, supports digestive regularity, and provides antioxidant protection.
 
 ---
@@ -81,12 +82,12 @@ This framework provides a practical and evidence-informed approach to encouragin
 **Theme:** Brain Function · Circulation · Longevity  
 
 **Core Items:**  
-- Purple dragon fruit (pitaya)  
+- Purple dragon fruit (*pitaya*)  
 - Purple passion fruit  
-- Mangosteen  
+- Blueberry *(non-tropical)* 🫐  
 
-**Nutrients:** Anthocyanins, polyphenols, xanthones  
-**Benefits:** Provides antioxidant compounds, supports vascular function, and contributes to cellular protection against oxidative stress.
+**Nutrients:** Anthocyanins, polyphenols, flavonoids  
+**Benefits:** Provides potent antioxidants, supports vascular function, and contributes to cognitive and cellular protection.
 
 ---
 
@@ -99,8 +100,8 @@ This framework provides a practical and evidence-informed approach to encouragin
 | **Monday** | 🔴 **Red** | Watermelon 🍉,<br>Tomato 🍅,<br>Beetroot 🫜 | Lycopene, betalains; cardiovascular and circulatory support |
 | **Tuesday** | 🟠 **Orange** | Carrot 🥕,<br>Mango 🥭,<br>Papaya | Beta-carotene, vitamin A; eye and skin health |
 | **Wednesday** | 🟡 **Yellow** | Banana 🍌,<br>Pineapple 🍍,<br>Jackfruit | Vitamin C, bromelain, potassium; digestion and energy |
-| **Thursday** | 🟢 **Green** | Honeydew 🍈,<br>Guava (Psidium guajava),<br>Starfruit (Carambola) | Chlorophyll, vitamin C, fibre; hydration and digestive support |
-| **Friday** | 🔵 **Blue/Purple** | Purple dragon fruit,<br>Purple passion fruit,<br>Mangosteen | Anthocyanins, polyphenols; antioxidant and vascular benefits |
+| **Thursday** | 🟢 **Green** | Honeydew 🍈,<br>Guava (*Psidium guajava*),<br>Starfruit (*Carambola*) | Chlorophyll, vitamin C, fibre; hydration and digestive support |
+| **Friday** | 🔵 **Blue/Purple** | Purple dragon fruit,<br>Purple passion fruit,<br>Blueberry *(non-tropical)* 🫐 | Anthocyanins, polyphenols; antioxidant, brain and vascular support |
 
 ---
 
