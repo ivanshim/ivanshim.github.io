@@ -16,18 +16,18 @@ This guide accounts for SGX board lot sizes and affordability differences betwee
 
 ## 💹 Price Snapshot (~30 Oct 2025)
 
-| Code | Name                                  | Price (SG$ approx) | Min Qty     | Cost per Min Qty (SG$) | Buy Amount / Wait Time | Total (SG$ approx) |
-|------|---------------------------------------|--------------------:|:------------|------------------------:|:----------------------:|-------------------:|
-| CLR  | Lion-Phillip S-REIT ETF               | 0.886               | *1 unit*       | 0.886                   | 500 units              | 443                |
-| ES3  | SPDR Straits Times Index ETF          | 4.48                | *1 unit*       | 4.48                    | 100 units              | 448                |
-| G3B  | Nikko AM Singapore STI ETF            | 4.57                | *1 unit*       | 4.57                    | 100 units              | 457                |
-| Z74  | Singtel Ltd                           | 4.29                | *100 shares*   | 429                     | 100 shares             | 429                |
-| C6L  | Singapore Airlines Ltd                | 6.62                | *100 shares*   | 662                     | 2 months               | —                  |
-| S63  | ST Engineering Ltd                    | 8.58                | *100 shares*   | 858                     | 2 months               | —                  |
-| O39  | Oversea-Chinese Banking Corp Ltd      | 16.77               | *100 shares*   | 1,677                   | 4 months               | —                  |
-| S68  | Singapore Exchange Ltd                | 17.45               | *100 shares*   | 1,745                   | 4 months               | —                  |
-| U11  | United Overseas Bank Ltd              | 34.90               | *100 shares*   | 3,490                   | 7 months               | —                  |
-| D05  | DBS Group Holdings Ltd                | 53.23               | *100 shares*   | 5,323                   | 11 months              | —                  |
+| Code | Name | Price (SG$ approx) | Min Qty | Cost per Min Qty (SG$) | Buy Amount / Wait Time | Total (SG$ approx) |
+|-|-|-:|:-|-:|:-:|-:|
+| CLR | Lion-Phillip S-REIT ETF | 0.886 | *1 unit* | 0.886 | 500 units | 443 |
+| ES3 | SPDR Straits Times Index ETF | 4.48 | *1 unit* | 4.48 | 100 units | 448 |
+| G3B | Nikko AM Singapore STI ETF | 4.57 | *1 unit* | 4.57 | 100 units | 457 |
+| Z74 | Singtel Ltd | 4.29 | *100 shares* | 429 | 100 shares | 429 |
+| C6L | Singapore Airlines Ltd | 6.62 | *100 shares* | 662 | 2 months | — |
+| S63 | ST Engineering Ltd | 8.58 | *100 shares* | 858 | 2 months | — |
+| O39 | Oversea-Chinese Banking Corp Ltd | 16.77 | *100 shares* | 1,677 | 4 months | — |
+| S68 | Singapore Exchange Ltd | 17.45 | *100 shares* | 1,745 | 4 months | — |
+| U11 | United Overseas Bank Ltd | 34.90 | *100 shares* | 3,490 | 7 months | — |
+| D05 | DBS Group Holdings Ltd | 53.23 | *100 shares* | 5,323 | 11 months | — |
 
 ---
 
