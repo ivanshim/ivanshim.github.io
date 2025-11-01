@@ -45,18 +45,17 @@ This guide accounts for SGX board lot sizes and affordability differences betwee
     - Z74 (~SG$4.29/share) → buy **×100 shares** (≈ SG$429).  
 
 - **For higher-priced equities (cost per lot exceeds monthly amount):**
-  - Allow monthly funds to **accumulate** until the total is sufficient to buy one lot.  
-  - Make the purchase **after** the required number of months.  
+  - Allow monthly funds to **accumulate**, and **make the purchase once the total is sufficient to buy one lot** (e.g. after 2–11 months, depending on price).  
   - *Example:*  
-    - C6L (~SG$662/lot) → **after 2 months**.  
-    - S63 (~SG$858/lot) → **after 2 months**.  
-    - O39 (~SG$1,677/lot) → **after 4 months**.  
-    - S68 (~SG$1,745/lot) → **after 4 months**.  
-    - U11 (~SG$3,490/lot) → **after 7 months**.  
-    - D05 (~SG$5,323/lot) → **after 11 months**.  
+    - C6L (~SG$662/lot) → **buy after 2 months**.  
+    - S63 (~SG$858/lot) → **buy after 2 months**.  
+    - O39 (~SG$1,677/lot) → **buy after 4 months**.  
+    - S68 (~SG$1,745/lot) → **buy after 4 months**.  
+    - U11 (~SG$3,490/lot) → **buy after 7 months**.  
+    - D05 (~SG$5,323/lot) → **buy after 11 months**.  
 
 - **Reinvest dividends** into the next scheduled counter to enhance compounding.  
-- **Repeat annually** — over time, all counters accumulate naturally in line with affordability and target weighting.
+- **After completing one round of purchases, repeat the rotation — maintaining the same disciplined monthly contributions.**
 
 ---
 
