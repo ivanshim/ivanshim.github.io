@@ -21,13 +21,13 @@ This guide accounts for SGX board lot sizes and affordability differences betwee
 | CLR | Lion-Phillip S-REIT ETF | 0.886 | *1 unit* | 0.886 | 1 | 500 units | 443 |
 | ES3 | SPDR Straits Times Index ETF | 4.48 | *1 unit* | 4.48 | 1 | 100 units | 448 |
 | G3B | Nikko AM Singapore STI ETF | 4.57 | *1 unit* | 4.57 | 1 | 100 units | 457 |
-| Z74 | Singtel Ltd | 4.29 | *100 shares* | 429 | 1 | 100 shares | 429 |
-| C6L | Singapore Airlines Ltd | 6.62 | *100 shares* | 662 | 2 | 100 shares | — |
-| S63 | ST Engineering Ltd | 8.58 | *100 shares* | 858 | 2 | 100 shares | — |
-| S68 | Singapore Exchange Ltd | 17.45 | *100 shares* | 1,745 | 4 | 100 shares | — |
-| O39 | Oversea-Chinese Banking Corp Ltd | 16.77 | *100 shares* | 1,677 | 4 | 100 shares | — |
-| U11 | United Overseas Bank Ltd | 34.90 | *100 shares* | 3,490 | 7 | 100 shares | — |
-| D05 | DBS Group Holdings Ltd | 53.23 | *100 shares* | 5,323 | 11 | 100 shares | — |
+| Z74 | Singtel Ltd | 4.29 | *100 shares* | 429 | 1 | — | - |
+| C6L | Singapore Airlines Ltd | 6.62 | *100 shares* | 662 | 2 | — | — |
+| S63 | ST Engineering Ltd | 8.58 | *100 shares* | 858 | 2 | — | — |
+| S68 | Singapore Exchange Ltd | 17.45 | *100 shares* | 1,745 | 4 | — | — |
+| O39 | Oversea-Chinese Banking Corp Ltd | 16.77 | *100 shares* | 1,677 | 4 | — | — |
+| U11 | United Overseas Bank Ltd | 34.90 | *100 shares* | 3,490 | 7 | — | — |
+| D05 | DBS Group Holdings Ltd | 53.23 | *100 shares* | 5,323 | 11 | — | — |
 
 ---
 
