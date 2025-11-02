@@ -1,6 +1,6 @@
 ---
-title: "Culinary Diet of Tropical Plants by Assigning the Colour to the Day of the Week"
-permalink: /culinary-tropical-plant-day-colour-week/
+title: "Diet of Tropical Plants by Assigning the Colour to the Day of the Week"
+permalink: /food-tropical-plant-day-colour-week/
 description: "A colour-coded, plant-based weekday rotation where each day is assigned a fixed colour theme, emphasizing tropical plants to be blended (not juiced) for culinary balance, vitality, and variety."
 author: "Dr. Ivan Shim"
 ---
