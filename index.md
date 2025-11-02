@@ -12,11 +12,15 @@ permalink: /
 
 [EAC by Population and Religion](eac-population-religion/)
 
+---
+
 [Singapore Core Equity Rotation](https://www.ivanshim.com/singapore-core-equity-rotation/)
 
 [Singapore Top 10 Companies by Market Capitalization](https://www.ivanshim.com/singapore-top-10-market-cap/)
 
-[Culinary Diet of Tropical Plants by Assigning the Colour to the Day of the Week](https://www.ivanshim.com/culinary-tropical-plant-day-colour-week/)
+---
+
+[Diet of Tropical Plants by Assigning the Colour to the Day of the Week](https://www.ivanshim.com/food-tropical-plant-day-colour-week/)
 
 
 
