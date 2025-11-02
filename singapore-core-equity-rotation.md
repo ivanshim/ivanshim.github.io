@@ -21,7 +21,7 @@ This guide accounts for SGX board lot sizes and affordability differences betwee
 | CLR | Lion-Phillip S-REIT ETF | 0.886 | *1 unit* | 0.886 | 1 | 500 units | 443 |
 | ES3 | SPDR Straits Times Index ETF | 4.48 | *1 unit* | 4.48 | 1 | 100 units | 448 |
 | G3B | Nikko AM Singapore STI ETF | 4.57 | *1 unit* | 4.57 | 1 | 100 units | 457 |
-| Z74 | Singtel Ltd | 4.29 | *100 shares* | 429 | 1 | — | - |
+| Z74 | Singtel Ltd | 4.29 | *100 shares* | 429 | 1 | — | — |
 | C6L | Singapore Airlines Ltd | 6.62 | *100 shares* | 662 | 2 | — | — |
 | S63 | ST Engineering Ltd | 8.58 | *100 shares* | 858 | 2 | — | — |
 | S68 | Singapore Exchange Ltd | 17.45 | *100 shares* | 1,745 | 4 | — | — |
