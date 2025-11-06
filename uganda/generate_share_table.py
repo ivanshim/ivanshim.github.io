@@ -1,24 +1,38 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Repository: https://github.com/ivanshim/ivanshim.github.io
+# Raw file:   https://raw.githubusercontent.com/ivanshim/ivanshim.github.io/main/uganda/generate_share_table.py
+# ------------------------------------------------------------------------------
+
 """
 ===============================================================================
 Project: Uganda Securities Exchange — Share Accumulation Cost Table Generator
 File: generate_share_table.py
 Description:
-    This script generates a modular, neatly formatted share purchase
+    This Python script generates a modular, neatly formatted share purchase
     cost table for listed companies on the Uganda Securities Exchange (USE).
-    It calculates the base value, brokerage commission, and total acquisition
-    cost for configurable batches of shares — wrapping automatically over
-    a given interval (e.g., 900k → 910k → … → 990k → 900k).
 
-    The resulting table is returned as a pandas DataFrame with optional
-    comma formatting for readability, and includes a dynamically computed
-    TOTALS row for quick reference. Output can be displayed as Markdown
-    or exported to Excel or CSV for further analysis.
+    It calculates:
+        • Base Value (price × shares)
+        • Brokerage Commission (e.g. 2.1%)
+        • Total Cost per purchase block
+        • Cumulative Shares (running total)
+
+    Features:
+        - Automatic wrap-around share counts (e.g. 900k → 910k → … → 990k → 900k)
+        - Dynamically computed TOTALS row
+        - Optional comma formatting for readability
+        - Fully generic column handling (no hard-coded labels)
+        - Output as a pandas DataFrame, printable as Markdown or exportable to Excel
+
+    Example:
+        >>> from generate_share_table import generate_share_table
+        >>> df = generate_share_table(price_per_share=5.0, total_target_shares=21_000_000)
+        >>> print(df.to_markdown(index=False))
 
 Authors:
-    - Dr Ivan Shim
-    - GPT-5 (OpenAI ChatGPT)
+    Ivan Shim
+    GPT-5 (OpenAI ChatGPT)
 License:
     MIT License
 Version:
