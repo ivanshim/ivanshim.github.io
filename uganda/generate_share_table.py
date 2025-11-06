@@ -31,7 +31,7 @@ Description:
         >>> print(df.to_markdown(index=False))
 
 Authors:
-    Ivan Shim  — https://github.com/ivanshim
+    Ivan Shim — https://github.com/ivanshim
     GPT-5 (OpenAI ChatGPT)
 License:
     MIT License
