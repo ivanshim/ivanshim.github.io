@@ -5,6 +5,9 @@ description: "Practical implementation guide for the Singapore Core Equity Rotat
 tags: ["Singapore Stocks", "SGX", "ETFs", "DCA", "Portfolio Strategy", "Long-Term Investing"]
 author: "SG Investments"
 last_reviewed: 2025-10-30
+source_links:
+  - "https://github.com/ivanshim/ivanshim.github.io/blob/main/singapore/singapore-core-equity-rotation.md"
+  - "https://raw.githubusercontent.com/ivanshim/ivanshim.github.io/refs/heads/main/singapore/singapore-core-equity-rotation.md"
 ---
 
 # 🇸🇬 Singapore Core Equity Rotation – Practical Purchase Strategy
