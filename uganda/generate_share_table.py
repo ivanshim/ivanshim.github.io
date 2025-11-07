@@ -97,11 +97,10 @@ def generate_share_table(
         "Cumulative Shares"
     ]
 
+    # 2) Generate rows numerically
     rows = []
     cumulative_shares = 0
     shares = start_shares
-
-    # 2) Generate rows numerically
     while cumulative_shares < total_target_shares:
         base_value = shares * price_per_share
         commission = base_value * commission_rate
