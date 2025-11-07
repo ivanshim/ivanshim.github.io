@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Repository: https://github.com/ivanshim/ivanshim.github.io
-# Raw file:   https://raw.githubusercontent.com/ivanshim/ivanshim.github.io/main/uganda/generate_share_table.py
-# ------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 """
 ===============================================================================
 Project: Uganda Securities Exchange — Share Accumulation Cost Table Generator
 File: generate_share_table.py
+Source: https://github.com/ivanshim/ivanshim.github.io
+Raw: https://raw.githubusercontent.com/ivanshim/ivanshim.github.io/main/uganda/generate_share_table.py
+
 Description:
     This Python script generates a modular, neatly formatted share purchase
     cost table for listed companies on the Uganda Securities Exchange (USE).
