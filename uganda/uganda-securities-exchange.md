@@ -1,12 +1,20 @@
 ---
 title: Uganda Securities Exchange
 permalink: /uganda-securities-exchange/
+description: Overview of listed companies, cross-listed entities, and trading participants on the Uganda Securities Exchange.
+category: uganda
+tags: [finance, africa, stock-exchange, uganda]
+last_updated: 2025-10-09
+author: ivanshim
+source: https://github.com/ivanshim/ivanshim.github.io/blob/main/uganda/uganda-securities-exchange.md
+raw: https://raw.githubusercontent.com/ivanshim/ivanshim.github.io/refs/heads/main/uganda/uganda-securities-exchange.md
+layout: page
 ---
 # [Uganda Securities Exchange](https://www.use.or.ug){:target="_blank"}
 
-## USE - [Securities Central Depository](https://scd.use.or.ug){:target="_blank"}
+## USE / [Securities Central Depository](https://scd.use.or.ug){:target="_blank"}
 
-## USE - [Equities](https://www.use.or.ug/content/equities){:target="_blank"}
+## USE / [Equities](https://www.use.or.ug/content/equities){:target="_blank"}
 
 | Stock Code (USE) | AfricanFinancials | Wikipedia | Corporate Website | Name | Cross-Listed | Majority Shareholders’ Country |
 |-|-|-|-|-|-|-|
