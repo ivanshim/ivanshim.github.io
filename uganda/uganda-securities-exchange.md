@@ -41,7 +41,7 @@ layout: page
 
 References:
 
-[USE listed companies](https://eprints2.undip.ac.id/id/eprint/17256/3/BAB%20II.pdf)
+[USE listed companies](https://eprints2.undip.ac.id/id/eprint/17256/3/BAB%20II.pdf){:target="_blank"}
 
 
 ## USE - [Trading Participants](https://www.use.or.ug/content/trading-participants){:target="_blank"}
