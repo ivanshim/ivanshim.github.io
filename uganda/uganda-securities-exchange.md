@@ -39,6 +39,11 @@ layout: page
 | [UMEM](https://www.use.or.ug/listed/umem){:target="_blank"} | [Link](https://africanfinancials.com/company/ug-umeme/){:target="_blank"} | [Wikipedia](https://en.m.wikipedia.org/wiki/Umeme){:target="_blank"} | [Website](http://www.umeme.co.ug){:target="_blank"} | Umeme Limited | 622378000 | Utilities | – | UK (Foreign institutional investors) |
 
 
+References:
+
+[USE listed companies](https://eprints2.undip.ac.id/id/eprint/17256/3/BAB%20II.pdf)
+
+
 ## USE - [Trading Participants](https://www.use.or.ug/content/trading-participants){:target="_blank"}
 
 | Company | Address | P.O. Box | Tel | Fax | Email |
