@@ -17,7 +17,7 @@ layout: page
 ## USE / [Equities](https://www.use.or.ug/content/equities){:target="_blank"}
 
 
-| Stock Code (USE) | African Financials | Wikipedia | Corporate Website | Name (Correct Legal Name) | Sector | Cross-Listed | Majority Shareholder’s Country |
+| Stock Code (USE) | African Financials | Wikipedia | Corporate Website | Name | Sector | Cross-Listed | Majority Shareholder’s Country |
 | - | - | - | - | - | - | - | - |
 | [AIRTEL UGANDA](https://www.use.or.ug/listed/airtel_uganda){:target="_blank"} | [Link](https://africanfinancials.com/company/ug-airtel/){:target="_blank"} | [Wikipedia](https://en.m.wikipedia.org/wiki/Airtel_Uganda){:target="_blank"} | [Website](https://www.airtel.co.ug){:target="_blank"} | Airtel Uganda Limited | Telecommunications | – | India (Bharti Airtel via Airtel Africa) |
 | [BATU](https://www.use.or.ug/listed/batu){:target="_blank"} | [Link](https://africanfinancials.com/company/ug-batu/){:target="_blank"} | [Wikipedia](https://en.m.wikipedia.org/wiki/British_American_Tobacco){:target="_blank"} | [Website](http://www.bat.com){:target="_blank"} | British American Tobacco (Uganda) Limited | Tobacco | – | UK (British American Tobacco plc) |
