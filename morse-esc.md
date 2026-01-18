@@ -48,11 +48,10 @@ The sequence:
 ----
 ```
 
-
 (four consecutive dashes, delimited by an inter-value gap) is reserved as the **ESC token**.
 
 - In normal mode, a single `ESC` switches the decoder into binary mode.
-- In binary mode, a single `ESC` switches the decoder back to normal mode.
+- In binary mode, **one or more consecutive `ESC` tokens** SHALL be interpreted as **EXIT / ABORT / RESYNC**, causing the decoder to immediately return to normal Morse mode and reset parser state.
 
 The `ESC` token has no numeric meaning as a data value unless explicitly encoded as such (see Section 8).
 
@@ -108,35 +107,14 @@ This rule removes all ambiguity between control and data representations of ESC.
 
 ---
 
-## 9. ESC Control Semantics
-
-At value boundaries:
-
-- **One ESC token (`----`)**  
-  → Toggle binary mode (enter if in normal mode, exit if in binary mode)
-
-- **Two or more consecutive ESC tokens**  
-  → **EXIT / ABORT / RESYNC**
-
-Upon receiving two or more ESC tokens, the decoder SHALL:
-
-- Immediately discard any partially received value
-- Exit binary mode if active
-- Return to normal Morse mode
-- Reset parser state
-
-No distinction is made between exit and abort; repetition of ESC unambiguously signals panic or resynchronization.
-
----
-
-## 10. Token Recognition Rule
+## 9. Token Recognition Rule
 
 - ESC tokens are recognized **only at value boundaries**.
 - Bit patterns occurring within a value are never interpreted as control tokens.
 
 ---
 
-## 11. Error Handling
+## 10. Error Handling
 
 The following conditions are invalid:
 
@@ -147,7 +125,7 @@ On error, a decoder may resynchronize by waiting for a valid ESC sequence.
 
 ---
 
-## 12. Architectural Interpretation
+## 11. Architectural Interpretation
 
 - Morse timing functions as the **physical and framing layer**.
 - Normal Morse symbols form a **symbolic encoding layer**.
@@ -157,7 +135,7 @@ Morse-ESC does not redefine International Morse Code; it overlays a reversible e
 
 ---
 
-## 13. Scope and Intent
+## 12. Scope and Intent
 
 Morse-ESC is intended for experimentation, archival signaling, and machine-assisted decoding. It demonstrates that Morse timing alone is sufficient to support scalable data transport without expanding the Morse symbol table.
 
