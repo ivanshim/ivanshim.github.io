@@ -44,6 +44,10 @@ The system begins in normal mode.
 
 The sequence:
 
+```
+----
+```
+
 
 (four consecutive dashes, delimited by an inter-value gap) is reserved as the **ESC token**.
 
