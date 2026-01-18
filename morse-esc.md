@@ -11,7 +11,7 @@
 
 Morse-ESC defines a minimal, extensible method for transmitting binary data over standard International Morse timing without redefining Morse symbols or introducing fixed-width encodings.
 
-It enables arbitrarily large integer values to be conveyed using timing gaps as the sole framing mechanism, while preserving Morse code as a human-timed signaling layer.
+It enables arbitrarily large binary values to be conveyed using timing gaps as the sole framing mechanism, while preserving Morse code as a human-timed signaling layer.
 
 ---
 
@@ -51,10 +51,10 @@ The sequence:
 
 (four consecutive dashes, delimited by an inter-value gap) is reserved as the **ESC token**.
 
-- In normal mode, `ESC` switches the decoder into binary mode.
-- In binary mode, `ESC` switches the decoder back to normal mode.
+- In normal mode, a single `ESC` switches the decoder into binary mode.
+- In binary mode, a single `ESC` switches the decoder back to normal mode.
 
-The `ESC` token has no semantic meaning as a data value.
+The `ESC` token has no numeric meaning as a data value unless explicitly encoded as such (see Section 8).
 
 ---
 
@@ -80,78 +80,70 @@ Value boundaries are determined solely by timing gaps.
 
 ---
 
-## 7. Canonical Encoding Rules
+## 7. Numeric Interpretation
 
-- Binary values are interpreted as unsigned integers.
-- All non-zero values **must not contain leading zeros**.
-  - The first bit of any non-zero value must therefore be `-` (binary 1).
-
-This guarantees that each value has exactly one canonical representation.
+- Binary values are interpreted as unsigned binary numbers.
+- **Leading zero bits are permitted and discarded** during interpretation.
+- **An all-zero value represents the binary value `0`.**
 
 ---
 
-## 8. Special Cases
+## 8. Special Handling of ESC as Data
 
-### 8.1 Zero
+The binary value corresponding to `ESC` is `1111`.
 
-- The integer value **0** is encoded as a single dot:
+- A value consisting of exactly `1111` **with no leading zero bits** SHALL be interpreted as the **ESC control token**.
+- The value `1111` SHALL be interpreted as a **literal data value** **only if it is prefixed with one or more leading zero bits**.
+
+Examples:
 
 ```
-.
+---- → ESC (control)
+.---- → ESC (data)
+..---- → ESC (data)
+...---- → ESC (data)
 ```
 
-- No other encoding represents zero.
+This rule removes all ambiguity between control and data representations of ESC.
 
 ---
 
-### 8.2 Escaping the Escape
+## 9. ESC Control Semantics
 
-- The bit pattern corresponding to `ESC` (`1111`) is reserved.
-- To transmit this value as data, the escape token must be **doubled**:
+At value boundaries:
 
-```
----- ----
-```
+- **One ESC token (`----`)**  
+  → Toggle binary mode (enter if in normal mode, exit if in binary mode)
 
-- In binary mode, `ESC ESC` is interpreted as a single literal ESC data value, not as a mode switch.
+- **Two or more consecutive ESC tokens**  
+  → **EXIT / ABORT / RESYNC**
 
-This mechanism is analogous to escaping a quotation mark or backslash in programming languages.
+Upon receiving two or more ESC tokens, the decoder SHALL:
+
+- Immediately discard any partially received value
+- Exit binary mode if active
+- Return to normal Morse mode
+- Reset parser state
+
+No distinction is made between exit and abort; repetition of ESC unambiguously signals panic or resynchronization.
 
 ---
 
-## 9. Token Recognition Rule
+## 10. Token Recognition Rule
 
-- The `ESC` token is recognized **only at value boundaries** (i.e., immediately following an inter-value gap).
+- ESC tokens are recognized **only at value boundaries**.
 - Bit patterns occurring within a value are never interpreted as control tokens.
 
 ---
 
-## 10. Abort / Resynchronization
-
-To support recovery from timing errors, miscounts, or panic situations, Morse-ESC defines an explicit abort mechanism.
-
-- A **run of three or more consecutive ESC tokens** at value boundaries SHALL be interpreted as **ABORT / RESYNC**.
-
-Upon receiving an abort sequence, the decoder SHALL:
-
-- Immediately discard any partially received value
-- Exit binary mode if currently active
-- Return to **normal Morse mode**
-- Treat the next non-ESC symbol as the start of a new, clean context
-
-The exact number of ESC tokens beyond three is irrelevant; any run of length three or greater has identical abort semantics.
-
----
-
-## 11. Error Conditions
+## 11. Error Handling
 
 The following conditions are invalid:
 
 - An empty value
-- A non-zero value with leading zeros
-- A solitary `ESC` in binary mode not followed by either data or another `ESC`
+- Any malformed timing that prevents value delimitation
 
-On error, a decoder may resynchronize by waiting for a valid abort sequence or a subsequent mode transition.
+On error, a decoder may resynchronize by waiting for a valid ESC sequence.
 
 ---
 
@@ -159,7 +151,7 @@ On error, a decoder may resynchronize by waiting for a valid abort sequence or a
 
 - Morse timing functions as the **physical and framing layer**.
 - Normal Morse symbols form a **symbolic encoding layer**.
-- Binary mode defines a **self-delimiting, arbitrarily scalable integer transport** over Morse timing.
+- Binary mode defines a **self-delimiting, arbitrarily scalable binary transport** over Morse timing.
 
 Morse-ESC does not redefine International Morse Code; it overlays a reversible escape mechanism on top of it.
 
