@@ -105,9 +105,9 @@ This guarantees that each value has exactly one canonical representation.
 - The bit pattern corresponding to `ESC` (`1111`) is reserved.
 - To transmit this value as data, the escape token must be **doubled**:
 
-````
+```
 ---- ----
-````
+```
 
 - In binary mode, `ESC ESC` is interpreted as a single literal ESC data value, not as a mode switch.
 
