@@ -92,7 +92,9 @@ This guarantees that each value has exactly one canonical representation.
 
 - The integer value **0** is encoded as a single dot:
 
-```.```
+```
+.
+```
 
 - No other encoding represents zero.
 
