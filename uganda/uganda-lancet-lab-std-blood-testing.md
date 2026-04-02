@@ -1,5 +1,5 @@
 ---
-title: Uganda Securities Exchange
+title: Uganda Lancet Lab STD Blood Testing
 permalink: /uganda-lancet-lab-std-blood-testing/
 ---
 
