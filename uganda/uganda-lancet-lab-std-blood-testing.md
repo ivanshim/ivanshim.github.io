@@ -34,7 +34,7 @@ FEE SCHEDULE: UGANDA - UGANDA
 |&nbsp;&nbsp;ZIHEPC|HEP C ANTIBODY (INC WEST BLOT)|4531I007|74.90|
 |&nbsp;&nbsp;zIHCVVAL|z HCV VALUE|NA|0.00|
 |IHERPES|HERPES (IGG + IGM) SERUM|9999I029|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.90|
-|IHIV0|HIV (ELISA + RAPID)|3932I002|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;74.90|
+|IHIVO|HIV (ELISA + RAPID)|3932I002|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;74.90|
 |IRPRO|RPR (VDRL) ONLY - SERUM|3951I001|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28.90|
 |ITPHA|TPHA (T.PALLIDUM) SCREEN ONLY|9999I019|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.90|
 |GRAND TOTAL|||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;551.10|
