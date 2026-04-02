@@ -5,6 +5,7 @@ permalink: /uganda-lancet-lab-std-blood-testing/
 <style>
 body, table, th, td, p, h1, h2, h3 {
   font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
 }
 </style>
 
