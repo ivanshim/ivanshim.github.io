@@ -1,3 +1,7 @@
+---
+permalink: /uganda-lancet-lab-std-blood-testing/
+---
+
 # BILLING FEE LOOKUP
 
 FEE SCHEDULE: UGANDA - UGANDA
