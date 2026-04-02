@@ -1,4 +1,5 @@
 ---
+title: Uganda Securities Exchange
 permalink: /uganda-lancet-lab-std-blood-testing/
 ---
 
@@ -36,8 +37,7 @@ FEE SCHEDULE: UGANDA - UGANDA
 |IHIV0|HIV (ELISA + RAPID)|3932I002|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;74.90|
 |IRPRO|RPR (VDRL) ONLY - SERUM|3951I001|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28.90|
 |ITPHA|TPHA (T.PALLIDUM) SCREEN ONLY|9999I019|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.90|
-|---|---|---|---|
-|GRAND TOTAL|||551.10|
+|GRAND TOTAL|||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;551.10|
 
 ---
 
