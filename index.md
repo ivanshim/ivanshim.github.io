@@ -39,17 +39,17 @@ ul li a:hover {
 }
 </style>
 
+## Singapore
+
+- [Singapore Core Equity Rotation](https://www.ivanshim.com/singapore-core-equity-rotation/)
+- [Singapore Top 10 Companies by Market Capitalization](https://www.ivanshim.com/singapore-top-10-market-cap/)
+
 ## Uganda
 
 - [Uganda National Parks](uganda-national-parks/)
 - [Uganda Securities Exchange](uganda-securities-exchange/)
 - [EAC by Population and Religion](eac-population-religion/)
 - [Uganda Lancet Lab STD Blood Testing](/uganda-lancet-lab-std-blood-testing/)
-
-## Singapore
-
-- [Singapore Core Equity Rotation](https://www.ivanshim.com/singapore-core-equity-rotation/)
-- [Singapore Top 10 Companies by Market Capitalization](https://www.ivanshim.com/singapore-top-10-market-cap/)
 
 ## Food
 
