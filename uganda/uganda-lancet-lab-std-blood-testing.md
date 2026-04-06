@@ -1,5 +1,5 @@
 ---
-title: Uganda Lancet Lab STD Blood Testing
+title: Lancet Lab Blood Testing
 permalink: /uganda-lancet-lab-std-blood-testing/
 ---
 
