@@ -1,6 +1,9 @@
 ---
+title: Learning Luganda
 permalink: /uganda-learning-luganda/
 ---
+
+# Learning Luganda
 
 | 1st word ↓ / 2nd word → | Otya (how?) | Bulungi (well) |
 |---|---|---|
