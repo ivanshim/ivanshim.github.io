@@ -47,6 +47,7 @@ ul li a:hover {
 ## Uganda
 
 - [Uganda National Parks](uganda-national-parks/)
+- [Learning Luganda](/uganda-learning-luganda/)
 - [Uganda Securities Exchange](uganda-securities-exchange/)
 - [EAC by Population and Religion](eac-population-religion/)
 - [Uganda Lancet Lab STD Blood Testing](/uganda-lancet-lab-std-blood-testing/)
