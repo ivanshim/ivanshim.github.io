@@ -13,7 +13,7 @@ permalink: /uganda-learning-luganda/
 | Olidde (eaten) | **Olidde otya?**<br>eaten how?<br>(how did you eat?) | **Olidde bulungi**<br>eaten well<br>(you ate well) |
 | Osanyuse (happy) | **Osanyuse otya?**<br>happy how?<br>(how happy are you?) | **Osanyuse bulungi**<br>happy well<br>(you are very happy) |
 | Okooye (tired) | **Okooye otya?**<br>tired how?<br>(how tired are you?) | **Okooye bulungi**<br>tired well<br>(you are well rested*) |
+| Olabye (seen) | **Olabye otya?**<br>seen how?<br>(how did you see it?) | **Olabye bulungi**<br>seen well<br>(you saw clearly) |
 | Otuuse (arrived) | **Otuuse otya?**<br>arrived how?<br>(how did you arrive?) | **Otuuse bulungi**<br>arrived well<br>(you arrived safely) |
 | Okomyewo (returned) | **Okomyewo otya?**<br>returned how?<br>(how did you return?) | **Okomyewo bulungi**<br>returned well<br>(you returned safely) |
 | Sula (sleep) | **Sula otya?**<br>sleep how?<br>(how should you sleep?) | **Sula bulungi**<br>sleep well<br>(good night) |
-| Olabye (seen) | **Olabye otya?**<br>seen how?<br>(how did you see it?) | **Olabye bulungi**<br>seen well<br>(you saw clearly) |
