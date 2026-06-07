@@ -9,4 +9,6 @@ permalink: /appliance/jp-sharp-es-s7g-nl/
 
 SHARP front load washer, model ES-S7G-NL.
 
+Pink Gold **Left Hinge** (Opens to the Left)
+
 Source: [Recycle Shop MogLand](https://www.recycleshop-mogland.jp/enstore/sharp-front-load-washer-es-s7g/).
