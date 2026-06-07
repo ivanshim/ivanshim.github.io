@@ -7,3 +7,4 @@ permalink: /appliances/
 
 - [Japan: Sharp ES-S7G](/appliance/jp-sharp-es-s7g/)
 - [Japan: Sharp CV-P60-W](/appliance/jp-sharp-cv-p60-w/)
+- [Japan: Sony XRJ-85X95J](/appliance/jp-sony-xrj-85x95j/)
