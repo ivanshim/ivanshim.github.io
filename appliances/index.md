@@ -5,4 +5,4 @@ permalink: /appliances/
 
 # Appliances
 
-- [Sharp ES-S7G](/appliance/jp-sharp-es-s7g/)
+- [Japan: Sharp ES-S7G](/appliance/jp-sharp-es-s7g/)

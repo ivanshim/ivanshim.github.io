@@ -1,9 +1,9 @@
 ---
-title: Sharp ES-S7G
+title: "Japan: Sharp ES-S7G"
 permalink: /appliance/jp-sharp-es-s7g/
 ---
 
-# Sharp ES-S7G
+# Japan: Sharp ES-S7G
 
 ![Sharp ES-S7G washer dryer](/appliances/jp-sharp-es-s7g.jpeg)
 
