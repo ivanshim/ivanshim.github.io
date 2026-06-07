@@ -1,9 +1,9 @@
 ---
-title: "Japan: Sharp CV-P60-W"
+title: "Japan: Sharp CV-P60-W Dehumidifier"
 permalink: /appliance/jp-sharp-cv-p60-w/
 ---
 
-# Japan: Sharp CV-P60-W
+# Japan: Sharp CV-P60-W Dehumidifier
 
 ![Sharp CV-P60-W clothes drying dehumidifier](/appliances/jp-sharp-cv-p60-w.jpg)
 

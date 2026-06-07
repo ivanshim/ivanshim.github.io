@@ -1,9 +1,9 @@
 ---
-title: "Japan: Sharp SJ-GD15J-W"
+title: "Japan: Sharp SJ-GD15J-W Refrigerator"
 permalink: /appliance/jp-sharp-sj-gd15j-w/
 ---
 
-# Japan: Sharp SJ-GD15J-W
+# Japan: Sharp SJ-GD15J-W Refrigerator
 
 ![Sharp SJ-GD15J-W refrigerator](/appliances/jp-sharp-sj-gd15j-w.jpg)
 

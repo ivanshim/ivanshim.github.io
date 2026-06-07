@@ -1,9 +1,9 @@
 ---
-title: "Japan: Sony XRJ-85X95J"
+title: "Japan: Sony XRJ-85X95J TV"
 permalink: /appliance/jp-sony-xrj-85x95j/
 ---
 
-# Japan: Sony XRJ-85X95J
+# Japan: Sony XRJ-85X95J TV
 
 ![Sony XRJ-85X95J Bravia TV](/appliances/jp-sony-xrj-85x95j.jpg)
 

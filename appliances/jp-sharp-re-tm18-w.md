@@ -1,9 +1,9 @@
 ---
-title: "Japan: Sharp RE-TM18-W"
+title: "Japan: Sharp RE-TM18-W Microwave"
 permalink: /appliance/jp-sharp-re-tm18-w/
 ---
 
-# Japan: Sharp RE-TM18-W
+# Japan: Sharp RE-TM18-W Microwave
 
 ![Sharp RE-TM18-W microwave oven](/appliances/jp-sharp-re-tm18-w.jpg)
 
