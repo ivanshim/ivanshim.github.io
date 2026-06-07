@@ -56,6 +56,10 @@ ul li a:hover {
 
 - [Diet of Tropical Plants by Assigning the Colour to the Day of the Week](https://www.ivanshim.com/food-tropical-plant-day-colour-week/)
 
+## Appliances
+
+- [Appliances](/appliances/)
+
 ## Links
 
 - [Linktr.ee](https://linktr.ee/ivanshim)
