@@ -114,7 +114,7 @@ function renderDetail(app, appliances, slug) {
   const title = element("h1", appliance.title);
   const image = element("img");
   image.className = "appliance-image";
-  image.src = appliance.image;
+  image.src = `/appliances/${appliance.image}`;
   image.alt = appliance.title;
 
   const description = element("p", appliance.description);
