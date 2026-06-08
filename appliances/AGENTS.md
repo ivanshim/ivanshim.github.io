@@ -6,7 +6,7 @@ Rules for future agents editing appliance data and pages.
 
 - Store appliance data in `appliances.csv`.
 - Keep the CSV headers exactly: `slug,image,title,description,source`.
-- `slug` is the stable URL id and must match `/appliances/#<slug>`.
+- `slug` is the stable URL id, must match `/appliances/#<slug>`, and should use `<2-letter country code>-<brand>-<model>` in lowercase hyphenated form.
 - `image` should be the image filename only, for example `<image-file>`.
 - `title` should follow `Country: Brand Model Type`.
 - `description` should include the exact model number and meaningful variant notes.
