@@ -1,33 +1,28 @@
 # AGENTS.md
 
-Instructions for future agents editing files in `appliances/`.
+Rules for future agents editing `appliances/`.
 
-## Appliance Page Pattern
+## Pages
 
-- Store individual appliance pages directly in this directory as `<country>-<brand>-<model>.md`.
-- Use lowercase hyphenated slugs for filenames and permalinks.
-- Each appliance page must use front matter with:
+- Store appliance pages directly in this directory as lowercase hyphenated Markdown files, usually `<country>-<brand>-<model>.md`.
+- Use matching slugs and permalinks: `jp-daikin-an22zss-f.md` -> `/appliance/jp-daikin-an22zss-f/`.
+- Front matter must include:
   - `title: "Country: Brand Model Type"`
   - `permalink: /appliance/<slug>/`
-- The page H1 must match the title.
-- Store the product image in this directory beside the Markdown file.
-- Reference local images with absolute site paths such as `/appliances/<image-file>`.
-- Include a short product description, model number, any important variant notes, and a source link.
-
-## Naming And Labels
-
-- Link labels and page titles should follow `Country: Brand Model Type`.
-- Suffix the model number with the appliance type, for example `Microwave`, `Refrigerator`, `Washing Machine`, `Dehumidifier`, or `TV`.
-- Keep country names in human-readable form in labels, even if filenames use country prefixes such as `jp-`.
+- The H1 must exactly match the title.
+- Include a short description, exact model number, meaningful variant notes, and a source link.
+- For split air conditioners, treat indoor and outdoor units as separate appliance pages when both model numbers matter. Example: `AN...` indoor unit and `AR...` outdoor unit.
 
 ## Index
 
-- Keep `appliances/index.md` grouped by country under `## Japan`, `## Singapore`, and `## Uganda`.
-- Add new appliance links under the matching country subheader.
-- Keep links as root-relative permalinks, for example `/appliance/jp-sharp-re-tm18-w/`.
+- Keep `index.md` grouped under `## Japan`, `## Singapore`, and `## Uganda`.
+- Add each new appliance link under the matching country.
+- Link labels must match page titles.
+- Use root-relative permalink links, for example `/appliance/jp-sharp-re-tm18-w/`.
 
 ## Images
 
-- Prefer official manufacturer product images when available.
-- If a specific variant is requested, use an image matching that variant.
-- When replacing an image that may be cached, use a new descriptive filename and update the Markdown image reference.
+- Store product images beside the Markdown page in this directory.
+- Reference images with absolute site paths such as `/appliances/<image-file>`.
+- Prefer official manufacturer images; use a variant-matching image when the requested model has a specific color, hinge, size, or indoor/outdoor unit.
+- When replacing a cached image, use a new descriptive filename and update the Markdown reference.
