@@ -15,7 +15,7 @@ Rules for future agents editing appliance data and pages.
 
 ## Pages
 
-- `appliances/index.html` loads `appliances.csv` through `app.js` and renders both the index and hash-routed detail views.
+- `appliances/index.html` loads `appliances.csv` through `app-hash.js` and renders both the index and hash-routed detail views.
 - Detail URLs use `/appliances/#<slug>`.
 - Do not add per-appliance HTML or Markdown pages; the CSV is the appliance data source.
 
