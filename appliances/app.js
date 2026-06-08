@@ -1,13 +1,9 @@
 (async function () {
   const app = document.getElementById("app");
   const appliances = await loadAppliances();
-  const slug = getDetailSlug();
 
-  if (slug) {
-    renderDetail(app, appliances, slug);
-  } else {
-    renderIndex(app, appliances);
-  }
+  window.addEventListener("hashchange", () => renderRoute(app, appliances));
+  renderRoute(app, appliances);
 })();
 
 async function loadAppliances() {
@@ -63,9 +59,17 @@ function parseCsv(text) {
   );
 }
 
+function renderRoute(app, appliances) {
+  const slug = getDetailSlug();
+  if (slug) {
+    renderDetail(app, appliances, slug);
+  } else {
+    renderIndex(app, appliances);
+  }
+}
+
 function getDetailSlug() {
-  const match = window.location.pathname.match(/^\/appliance\/([^/]+)\/?$/);
-  return match ? decodeURIComponent(match[1]) : "";
+  return decodeURIComponent(window.location.hash.replace(/^#\/?/, ""));
 }
 
 function renderIndex(app, appliances) {
@@ -89,7 +93,7 @@ function renderIndex(app, appliances) {
     (groups.get(country) || []).forEach((appliance) => {
       const item = element("li");
       const link = element("a", appliance.title);
-      link.href = `/appliance/${encodeURIComponent(appliance.slug)}/`;
+      link.href = `/appliances/#${encodeURIComponent(appliance.slug)}`;
       item.append(link);
       list.append(item);
     });

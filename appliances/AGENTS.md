@@ -6,7 +6,7 @@ Rules for future agents editing appliance data and pages.
 
 - Store appliance data in `appliances.csv`.
 - Keep the CSV headers exactly: `slug,image,title,description,source`.
-- `slug` is the stable URL id and must match `/appliance/<slug>/`.
+- `slug` is the stable URL id and must match `/appliances/#<slug>`.
 - `image` should be an absolute site path such as `/appliances/<image-file>`.
 - `title` should follow `Country: Brand Model Type`.
 - `description` should include the exact model number and meaningful variant notes.
@@ -15,9 +15,9 @@ Rules for future agents editing appliance data and pages.
 
 ## Pages
 
-- `appliances/index.html` loads `appliances.csv` through `app.js` and renders the index.
-- `/appliance/<slug>/index.html` files are lightweight JS shells. Do not duplicate appliance data in them.
-- When adding a new CSV row, add the matching `/appliance/<slug>/index.html` shell so direct static URLs work.
+- `appliances/index.html` loads `appliances.csv` through `app.js` and renders both the index and hash-routed detail views.
+- Detail URLs use `/appliances/#<slug>`.
+- Do not add per-appliance HTML or Markdown pages; the CSV is the appliance data source.
 
 ## Images
 
