@@ -19,7 +19,7 @@ permalink: "/mobile-data/"
 | Zero1 Starter Prime $7.06 | 200 | 100(365D) + 5 Asia | 5 Asia | 0 | 0 | [Zero1](https://2go.zero1.sg/local-mobile-plans/basic/) |
 | ZYM Flexi Duo $7 | 77 shared | 77 shared | 0 | 0 | 0 | [ZYM](https://zym.sg/faq/sim-only-plan/) |
 | ZYM Roam Saver $7.77 | 200 | 100(365D) + 5 APAC | 5 APAC | 0 | 0 | [ZYM](https://zym.sg/roam-saver-4g-info/) |
-| SIMBA Senior $5 | 500 | 500 | 500 | 3 Global | 5 APAC + 3 Global | [SIMBA](https://support.simba.sg/hc/en-us/articles/5011523125785-What-are-the-mobile-plans-available) |
+| SIMBA Senior $5 | 500 | 500 | 500 | 3 Global | 5 APAC | [SIMBA](https://support.simba.sg/hc/en-us/articles/5011523125785-What-are-the-mobile-plans-available) |
 
 Updated: 10 June 2026
 
