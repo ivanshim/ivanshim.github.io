@@ -5,14 +5,22 @@ permalink: "/mobile-data/"
 
 # Local & Roaming Data at My Favourite Destinations
 
-| Plan | Local | MY | TH | JP | AU |
-|---|---:|---:|---:|---:|---:|
-| Gomo 5G $18.33 | 300 | 300 | 10 | 0 | 10 |
-| Maxx $7.90 | 290 | 290 | 10 | 2 | 2 |
-| Eight $8 | 288 | 288 | 10 | 2 | 2 |
-| ZYM $7.77 | 200 | 100(365D) | 3 | 0 | 0 |
-| Simba Senior $5 | 500 | 500 | 500 | 3 | 5 |
+| Plan | Local | MY | TH | JP | AU | Source |
+|---|---:|---:|---:|---:|---:|---|
+| Gomo 5G+ Value $18.33 | 400 | 400 + 10 Asia + 10 WW | 10 Asia + 10 WW | 10 WW | 10 WW | [GOMO](https://www.gomo.sg/) |
+| Gomo Senior $6 | 400 | 400 + 6 Asia + 3 WW | 6 Asia + 3 WW | 3 WW | 3 WW | [GOMO](https://www.gomo.sg/) |
+| Maxx $7.90 | 290 | 290 + 10 APAC + 2 Intl | 10 APAC + 2 Intl | 2 Intl | 2 Intl | [Maxx](https://maxx.sg/) |
+| Maxx 5G $10 | 400 | 400 + 13 APAC + 3 Intl | 13 APAC + 3 Intl | 3 Intl | 3 Intl | [Maxx](https://maxx.sg/) |
+| Eight Double Eight $8 | 528 | 528 + 12 APAC + 3 Intl | 528 + 12 APAC + 3 Intl | 3 Intl | 3 Intl | [eight](https://www.eight.com.sg/mobile/) |
+| Eight Seniors $5 | 528 | 528 + 6 APAC + 2 Intl | 528 + 6 APAC + 2 Intl | 2 Intl | 2 Intl | [eight](https://www.eight.com.sg/mobile/) |
+| hi! $10 | 500 | 500 + 12 APAC + 3 WW | 500 + 12 APAC + 3 WW | 3 WW | 3 WW | [Singtel hi!](https://www.singtel.com/personal/products-services/mobile/hi) |
+| hi! Senior $5 | 400 | 400 + 3 APAC + 3 WW | 400 + 3 APAC + 3 WW | 3 WW | 3 WW | [Singtel hi!](https://www.singtel.com/personal/products-services/mobile/hi) |
+| VIVIFI Vibe $10 | 600 | 600(365D) + 15 + 30(365D) | 600(365D) + 15 + 30(365D) | 15 + 30(365D) | 15 + 30(365D) | [VIVIFI](https://help.vivifi.me/hc/en-us/articles/37771691892505-VIVIFI-Vibe-plan-10-mth-non-contract) |
+| Zero1 Starter Prime $7.06 | 200 | 100(365D) + 5 Asia | 5 Asia | 0 | 0 | [Zero1](https://2go.zero1.sg/local-mobile-plans/basic/) |
+| ZYM Flexi Duo $7 | 77 shared | 77 shared | 0 | 0 | 0 | [ZYM](https://zym.sg/faq/sim-only-plan/) |
+| ZYM Roam Saver $7.77 | 200 | 100(365D) + 5 APAC | 5 APAC | 0 | 0 | [ZYM](https://zym.sg/roam-saver-4g-info/) |
+| SIMBA Senior $5 | 500 | 500 | 500 | 3 Global | 5 APAC + 3 Global | [SIMBA](https://support.simba.sg/hc/en-us/articles/5011523125785-What-are-the-mobile-plans-available) |
 
 Updated: 10 June 2026
 
-SIMBA Senior checked against the official SIMBA mobile plans page updated 12 May 2026.
+Values are GB unless stated otherwise. Some plans use shared destination buckets; `365D` means a yearly roaming allowance, and `WW`/`Intl`/`Global` means the plan's wider roaming bucket.
