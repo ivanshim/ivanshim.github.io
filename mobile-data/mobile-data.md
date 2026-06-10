@@ -11,6 +11,8 @@ permalink: "/mobile-data/"
 | Maxx $7.90 | 290 | 290 | 10 | 2 | 2 |
 | Eight $8 | 288 | 288 | 10 | 2 | 2 |
 | ZYM $7.77 | 200 | 100(365D) | 3 | 0 | 0 |
-| Simba $5 | 150 | 150 | 3 | 3 | 3 |
+| Simba Senior $5 | 500 | 500 | 500 | 3 | 5 |
 
-Updated: 27 June 2025
+Updated: 10 June 2026
+
+SIMBA Senior checked against the official SIMBA mobile plans page updated 12 May 2026.
