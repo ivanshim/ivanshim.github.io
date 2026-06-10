@@ -44,6 +44,10 @@ ul li a:hover {
 - [Singapore Core Equity Rotation](https://www.ivanshim.com/singapore-core-equity-rotation/)
 - [Singapore Top 10 Companies by Market Capitalization](https://www.ivanshim.com/singapore-top-10-market-cap/)
 
+## Mobile Data
+
+- [Local & Roaming Data at My Favourite Destinations](/mobile-data/)
+
 ## Uganda
 
 - [Uganda National Parks](uganda-national-parks/)
