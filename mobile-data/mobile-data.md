@@ -7,7 +7,6 @@ permalink: "/mobile-data/"
 
 | Plan | Local | MY | TH | ID | VN | JP | KR | TW | HK | AU | Source |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| Gomo 5G+ Value $18.33 | 400 | 400 + 10 Asia + 10 WW | 10 Asia + 10 WW | 10 Asia + 10 WW | 10 Asia + 10 WW | 10 Asia + 10 WW | 10 Asia + 10 WW | 10 Asia + 10 WW | 10 Asia + 10 WW | 10 Asia + 10 WW | [GOMO](https://www.gomo.sg/) |
 | Gomo Senior $6 | 400 | 400 + 6 Asia + 3 WW | 6 Asia + 3 WW | 6 Asia + 3 WW | 6 Asia + 3 WW | 6 Asia + 3 WW | 6 Asia + 3 WW | 6 Asia + 3 WW | 6 Asia + 3 WW | 6 Asia + 3 WW | [GOMO](https://www.gomo.sg/) |
 | Maxx $7.90 | 290 | 290 + 10 APAC + 2 Intl | 10 APAC + 2 Intl | 10 APAC + 2 Intl | 10 APAC + 2 Intl | 2 Intl | 10 APAC + 2 Intl | 10 APAC + 2 Intl | 10 APAC + 2 Intl | 2 Intl | [Maxx](https://maxx.sg/) |
 | Maxx 5G $10 | 400 | 400 + 13 APAC + 3 Intl | 13 APAC + 3 Intl | 13 APAC + 3 Intl | 13 APAC + 3 Intl | 3 Intl | 13 APAC + 3 Intl | 13 APAC + 3 Intl | 13 APAC + 3 Intl | 3 Intl | [Maxx](https://maxx.sg/) |
