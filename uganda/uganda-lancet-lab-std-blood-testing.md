@@ -37,7 +37,11 @@ FEE SCHEDULE: UGANDA - UGANDA
 |IHIVO|&nbsp;HIV (ELISA + RAPID)|3932I002|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;74.90|
 |IRPRO|&nbsp;RPR (VDRL) ONLY - SERUM|3951I001|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28.90|
 |ITPHA|&nbsp;TPHA (T.PALLIDUM) SCREEN ONLY|9999I019|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.90|
-|GRAND TOTAL|||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;551.10|
+|IFTA|&nbsp;Flour.Trepon AB (FTA) - SERUM||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;47.90|
+|&nbsp;&nbsp;ITPALLG|&nbsp;ZT.pallidum Total|3948I038|47.90|
+|&nbsp;&nbsp;ZITPALLG VAL|&nbsp;ZT.PALLIDUM TOTAL VALUE|NA|0.00|
+|M U RE|&nbsp;URINE RE (ROUTINE EXAMINATION)|9999M081|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28.90|
+|GRAND TOTAL|||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;627.90|
 
 ---
 
