@@ -18,7 +18,7 @@ FEE SCHEDULE: UGANDA - UGANDA
 
 |TEST/PROCEDURE|DESCRIPTION|PROC CODE|CHARGE|
 |---|---|---|---|
-|HMAL|&nbsp;MALARIA SCR - THICK+THIN ONLY|4551H005|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21.90|
+|HMAL|&nbsp;MALARIA SCR - THICK+THIN ONL|4551H005|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21.90|
 |IHAG|HEP A IgG antibody||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;79.90|
 |&nbsp;&nbsp;ZIHAG|&nbsp;HEP A IgG antibody|4531I001|79.90|
 |&nbsp;&nbsp;zIHAGVAL|&nbsp;HAG VALUE|NA|0.00|
@@ -31,7 +31,7 @@ FEE SCHEDULE: UGANDA - UGANDA
 |&nbsp;&nbsp;ZIHEPCOMTRIGGER|&nbsp;ZTRIGGER FOR ZIHEPCOM|NA|0.00|
 |&nbsp;&nbsp;zIHBSAGVAL|&nbsp;HBsAG VALUE|NA|0.00|
 |IHEPC|HEP C ANTIBODY||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;74.90|
-|&nbsp;&nbsp;ZIHEPC|&nbsp;HEP C ANTIBODY (INC WEST BLOT)|4531I007|74.90|
+|&nbsp;&nbsp;ZIHEPC|&nbsp;HEP C ANTIBODY (INC WEST BLO|4531I007|74.90|
 |&nbsp;&nbsp;zIHCVVAL|&nbsp;z HCV VALUE|NA|0.00|
 |IHERPES|&nbsp;HERPES (IGG + IGM) SERUM|9999I029|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.90|
 |IHIVO|&nbsp;HIV (ELISA + RAPID)|3932I002|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;74.90|
