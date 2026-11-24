@@ -40,7 +40,7 @@ FEE SCHEDULE: UGANDA - UGANDA
 |IFTA|&nbsp;Flour.Trepon AB (FTA) - SERUM||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;47.90|
 |&nbsp;&nbsp;ITPALLG|&nbsp;ZT.pallidum Total|3948I038|47.90|
 |&nbsp;&nbsp;ZITPALLG VAL|&nbsp;ZT.PALLIDUM TOTAL VALUE|NA|0.00|
-|M U RE|&nbsp;URINE RE (ROUTINE EXAMINATION)|9999M081|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28.90|
+|M U RE|&nbsp;URINE RE (ROUTINE EXAMINATIO|9999M081|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;28.90|
 |GRAND TOTAL|||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;627.90|
 
 ---
